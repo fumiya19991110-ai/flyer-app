@@ -223,7 +223,7 @@ export default function MainView({ data }: { data: DailyPrices }) {
         <div className="mx-auto max-w-2xl px-4 py-3">
           <div className="flex items-center justify-between mb-3">
             <h1 className="text-lg font-bold text-gray-800">
-              チラシ最安値比較
+              東十条スーパー特売情報
             </h1>
             <span className="text-xs text-gray-400">
               {data.date} 更新

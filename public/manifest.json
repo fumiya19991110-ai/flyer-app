@@ -1,7 +1,7 @@
 {
-  "name": "チラシ最安値比較",
-  "short_name": "チラシ比較",
-  "description": "近隣スーパーのチラシからカテゴリ別最安値を比較",
+  "name": "東十条スーパー特売情報",
+  "short_name": "東十条特売",
+  "description": "東十条エリアのスーパー特売情報を比較",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

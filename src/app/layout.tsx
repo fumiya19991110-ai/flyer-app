@@ -9,13 +9,13 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "チラシ最安値比較",
-  description: "近隣スーパーのチラシからカテゴリ別最安値を比較",
+  title: "東十条スーパー特売情報",
+  description: "東十条エリアのスーパー特売情報を比較",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "チラシ比較",
+    title: "東十条特売情報",
   },
 };
 
