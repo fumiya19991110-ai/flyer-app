@@ -45,6 +45,8 @@ interface Product {
   price: { taxExcl: number | null; taxIncl: number | null };
   unit: string;
   category: string;
+  validFrom: string | null;
+  validTo: string | null;
 }
 
 interface StoreProducts {
@@ -58,17 +60,21 @@ interface DailyPrices {
   stores: StoreProducts[];
 }
 
+export interface StorePrice {
+  storeName: string;
+  taxExcl: number | null;
+  taxIncl: number | null;
+  unit: string;
+  validFrom: string | null;
+  validTo: string | null;
+}
+
 interface MergedProduct {
   productName: string;
   category: string;
   minTaxIncl: number | null;
   hasFavoriteStore: boolean;
-  storePrices: {
-    storeName: string;
-    taxExcl: number | null;
-    taxIncl: number | null;
-    unit: string;
-  }[];
+  storePrices: StorePrice[];
 }
 
 const ITEMS_PER_PAGE = 30;
@@ -125,6 +131,8 @@ export default function MainView({ data }: { data: DailyPrices }) {
           taxExcl: product.price.taxExcl,
           taxIncl: product.price.taxIncl,
           unit: product.unit,
+          validFrom: product.validFrom ?? null,
+          validTo: product.validTo ?? null,
         });
         if (product.price.taxIncl !== null) {
           if (entry.minTaxIncl === null || product.price.taxIncl < entry.minTaxIncl) {

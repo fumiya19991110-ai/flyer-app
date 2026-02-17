@@ -7,6 +7,8 @@ interface Product {
   price: { taxExcl: number | null; taxIncl: number | null };
   unit: string;
   category: string;
+  validFrom: string | null;
+  validTo: string | null;
 }
 
 interface StoreProducts {

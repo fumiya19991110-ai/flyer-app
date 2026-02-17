@@ -37,6 +37,8 @@ export interface Product {
   };
   unit: string;
   category: Category;
+  validFrom: string | null;
+  validTo: string | null;
 }
 
 export interface StoreProducts {
@@ -53,6 +55,12 @@ export interface DailyPrices {
 const PROMPT = `あなたはスーパーのチラシ画像を解析するAIです。
 この画像はスーパーマーケットのチラシです。画像から読み取れるすべての商品情報をJSON形式で抽出してください。
 
+重要: チラシには全体の有効期間（例:「2/17(月)〜2/20(木)」）が記載されていることがありますが、
+商品ごとに異なる有効期間が設定されている場合があります（例:「本日限り」「18日のみ」「17日〜18日」など）。
+各商品に最も適切な有効期間を判定してください。
+
+今年は${new Date().getFullYear()}年です。日付は必ずYYYY-MM-DD形式で出力してください。
+
 以下のJSON形式で出力してください（JSONのみ、他のテキストは不要）:
 {
   "products": [
@@ -63,7 +71,9 @@ const PROMPT = `あなたはスーパーのチラシ画像を解析するAIで�
         "taxIncl": 213
       },
       "unit": "100g",
-      "category": "肉"
+      "category": "肉",
+      "validFrom": "2026-02-17",
+      "validTo": "2026-02-20"
     }
   ]
 }
@@ -74,6 +84,8 @@ const PROMPT = `あなたはスーパーのチラシ画像を解析するAIで�
 - price.taxIncl: 税込み価格（数値）。不明の場合はnull。税抜き価格のみの場合は税抜き×1.08で計算
 - unit: 単位（例: "1パック", "100g", "1本", "1袋"）。不明の場合は"1点"
 - category: 以下のいずれか: "肉", "魚", "野菜", "果物", "乳製品", "飲料", "惣菜", "日用品", "他"
+- validFrom: この価格の開始日（YYYY-MM-DD）。「本日限り」なら当日。不明ならチラシ全体の開始日。完全に不明ならnull
+- validTo: この価格の終了日（YYYY-MM-DD）。「本日限り」なら当日。不明ならチラシ全体の終了日。完全に不明ならnull
 - 読み取れない商品はスキップ
 - 価格が完全に読み取れない商品はスキップ
 - 必ず有効なJSONのみを出力すること`;
