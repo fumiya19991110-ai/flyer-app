@@ -1,9 +1,75 @@
 {
-  "date": "2026-02-22",
+  "date": "2026-02-23",
   "stores": [
     {
       "storeName": "スーパーみらべる東十条店",
       "products": [
+        {
+          "productName": "白菜",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1/4カット",
+          "category": "野菜",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-24"
+        },
+        {
+          "productName": "えのき",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1袋",
+          "category": "野菜",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-24"
+        },
+        {
+          "productName": "不揃いごぼう",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1袋",
+          "category": "野菜",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-24"
+        },
+        {
+          "productName": "いよかん",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-24"
+        },
+        {
+          "productName": "生椎茸",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1パック",
+          "category": "野菜",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-24"
+        },
+        {
+          "productName": "アボカド",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-24"
+        },
         {
           "productName": "にじのきらめき",
           "price": {
@@ -12,85 +78,85 @@
           },
           "unit": "5kg",
           "category": "他",
-          "validFrom": "2026-02-01",
+          "validFrom": "2026-02-24",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "かぼちゃ",
+          "productName": "なめこ",
           "price": {
-            "taxExcl": 29,
-            "taxIncl": 32
-          },
-          "unit": "100g当り",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "グレープフルーツルビー",
-          "price": {
-            "taxExcl": 358,
-            "taxIncl": 387
+            "taxExcl": 58,
+            "taxIncl": 63
           },
           "unit": "1袋",
+          "category": "野菜",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "レモン",
+          "price": {
+            "taxExcl": 380,
+            "taxIncl": 411
+          },
+          "unit": "1個",
           "category": "果物",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
         },
         {
-          "productName": "三元豚ブルコギ用味付(カタ)(M)",
+          "productName": "パイン",
           "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
+            "taxExcl": 333,
+            "taxIncl": 360
           },
-          "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
         },
         {
-          "productName": "香薰ウインナー",
+          "productName": "国産かぼちゃ",
           "price": {
-            "taxExcl": 268,
-            "taxIncl": 290
+            "taxExcl": 39,
+            "taxIncl": 43
           },
-          "unit": "1点",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
+          "unit": "100g",
+          "category": "野菜",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "かきフライ",
-          "price": {
-            "taxExcl": 368,
-            "taxIncl": 398
-          },
-          "unit": "8個入",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "きゅうり",
+          "productName": "さつまいも",
           "price": {
             "taxExcl": 158,
             "taxIncl": 171
           },
-          "unit": "1袋",
+          "unit": "1点",
           "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "とまとパック",
+          "productName": "里芋",
           "price": {
-            "taxExcl": 198,
-            "taxIncl": 214
+            "taxExcl": 48,
+            "taxIncl": 52
           },
-          "unit": "1パック",
+          "unit": "100g",
           "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "ポンカン",
+          "price": {
+            "taxExcl": 398,
+            "taxIncl": 430
+          },
+          "unit": "1袋",
+          "category": "果物",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
           "productName": "いちご",
@@ -100,41 +166,19 @@
           },
           "unit": "1パック",
           "category": "果物",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "ほうれん草",
+          "productName": "豚バラ切落し",
           "price": {
-            "taxExcl": 128,
-            "taxIncl": 139
+            "taxExcl": 178,
+            "taxIncl": 193
           },
-          "unit": "1点",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "長ねぎ",
-          "price": {
-            "taxExcl": 158,
-            "taxIncl": 171
-          },
-          "unit": "1束",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "三ヶ日みかん",
-          "price": {
-            "taxExcl": 498,
-            "taxIncl": 538
-          },
-          "unit": "1袋",
-          "category": "果物",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
           "productName": "若鶏手羽元(L)",
@@ -142,172 +186,161 @@
             "taxExcl": 69,
             "taxIncl": 75
           },
-          "unit": "100g当り",
+          "unit": "100g",
           "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "三元豚ロース しゃぶしゃぶ用",
+          "productName": "ふさこがね",
           "price": {
-            "taxExcl": 119,
-            "taxIncl": 129
+            "taxExcl": 2999,
+            "taxIncl": 3239
           },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "豚挽肉(L)",
-          "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
-          },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "おかめ納豆 極小粒 ミニ3",
-          "price": {
-            "taxExcl": 69,
-            "taxIncl": 75
-          },
-          "unit": "50g×3",
+          "unit": "5kg",
           "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "肉まん",
-          "price": {
-            "taxExcl": 399,
-            "taxIncl": 431
-          },
-          "unit": "3個入",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "えびと玉ねぎの寄せ揚",
-          "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
-          },
-          "unit": "3個入",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "バナメイ海老",
-          "price": {
-            "taxExcl": 148,
-            "taxIncl": 160
-          },
-          "unit": "100g当り",
-          "category": "魚",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "お刺身盛合せ4点盛り(本まぐろ入)",
-          "price": {
-            "taxExcl": 980,
-            "taxIncl": 1058
-          },
-          "unit": "1パック",
-          "category": "魚",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "甘塩銀鮭切身3切入",
-          "price": {
-            "taxExcl": 399,
-            "taxIncl": 431
-          },
-          "unit": "1パック",
-          "category": "魚",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ビヒダスプレーンヨーグルト プレーン・脂肪ゼロ",
-          "price": {
-            "taxExcl": 139,
-            "taxIncl": 151
-          },
-          "unit": "400g",
-          "category": "乳製品",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "毎日おいしいローストアーモンドミルク",
-          "price": {
-            "taxExcl": 268,
-            "taxIncl": 290
-          },
-          "unit": "1000ml",
-          "category": "飲料",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "スーパーカップ1.5倍",
-          "price": {
-            "taxExcl": 119,
-            "taxIncl": 129
-          },
-          "unit": "1個",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ブレンディ IC まろやかな香り袋",
-          "price": {
-            "taxExcl": 449,
-            "taxIncl": 485
-          },
-          "unit": "90g",
-          "category": "飲料",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ポポロスパ 1.6mm 結束",
+          "productName": "まぐろたたき",
           "price": {
             "taxExcl": 222,
-            "taxIncl": 239
+            "taxIncl": 240
           },
-          "unit": "700g",
-          "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
+          "unit": "100g",
+          "category": "魚",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "BOXチョコ",
+          "productName": "豚ロース切落し",
           "price": {
-            "taxExcl": 269,
-            "taxIncl": 291
+            "taxExcl": 178,
+            "taxIncl": 193
           },
-          "unit": "51g",
-          "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
         },
         {
-          "productName": "人の珈琲 PET",
+          "productName": "若鶏ムネ肉(2枚)",
+          "price": {
+            "taxExcl": 88,
+            "taxIncl": 96
+          },
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "まぐろ切落し",
+          "price": {
+            "taxExcl": 280,
+            "taxIncl": 303
+          },
+          "unit": "100g",
+          "category": "魚",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "かりかりささみ揚げ",
+          "price": {
+            "taxExcl": 258,
+            "taxIncl": 279
+          },
+          "unit": "4本入",
+          "category": "惣菜",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "ライトツナフレーク",
+          "price": {
+            "taxExcl": 249,
+            "taxIncl": 269
+          },
+          "unit": "1点",
+          "category": "魚",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "午後の紅茶 ストレート・レモン ミルク",
+          "price": {
+            "taxExcl": 159,
+            "taxIncl": 172
+          },
+          "unit": "1点",
+          "category": "飲料",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "コッペパン",
+          "price": {
+            "taxExcl": 79,
+            "taxIncl": 89
+          },
+          "unit": "1点",
+          "category": "他",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "大容量いちおしキムチ",
+          "price": {
+            "taxExcl": 199,
+            "taxIncl": 215
+          },
+          "unit": "440g",
+          "category": "惣菜",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "メイトーしっかり濃厚カマンベール",
+          "price": {
+            "taxExcl": 219,
+            "taxIncl": 237
+          },
+          "unit": "1000ml",
+          "category": "乳製品",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "北海道十勝カマンベール",
+          "price": {
+            "taxExcl": 279,
+            "taxIncl": 301
+          },
+          "unit": "90g",
+          "category": "乳製品",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "コッペパン・マーガリン",
+          "price": {
+            "taxExcl": 89,
+            "taxIncl": 97
+          },
+          "unit": "1点",
+          "category": "他",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "職人の珈琲 PET",
           "price": {
             "taxExcl": 98,
             "taxIncl": 106
           },
-          "unit": "各900ml",
+          "unit": "900ml",
           "category": "飲料",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
@@ -340,7 +373,7 @@
             "taxExcl": 598,
             "taxIncl": 646
           },
-          "unit": "1点",
+          "unit": "110g",
           "category": "飲料",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
@@ -351,7 +384,7 @@
             "taxExcl": 89,
             "taxIncl": 97
           },
-          "unit": "各16枚入",
+          "unit": "1枚入",
           "category": "他",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
@@ -360,64 +393,42 @@
           "productName": "シスコーン",
           "price": {
             "taxExcl": 189,
-            "taxIncl": 205
+            "taxIncl": 204
           },
-          "unit": "各1袋",
+          "unit": "1点",
           "category": "他",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "だししみ きざみ揚げ",
+          "productName": "おだしがしみたきざみ揚げ",
           "price": {
             "taxExcl": 149,
             "taxIncl": 161
           },
           "unit": "100g",
-          "category": "他",
-          "validFrom": "2026-02-01",
+          "category": "惣菜",
+          "validFrom": "2026-02-16",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "「真打」うどん2食",
+          "productName": "おだしがしみた北海道 釧路・根室 ほっけ開き",
           "price": {
             "taxExcl": 169,
             "taxIncl": 183
           },
-          "unit": "200g×2",
-          "category": "惣菜",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "オリジナルヨーグルト",
-          "price": {
-            "taxExcl": 179,
-            "taxIncl": 194
-          },
-          "unit": "80g×4",
-          "category": "乳製品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "ほっけい",
-          "price": {
-            "taxExcl": 580,
-            "taxIncl": 627
-          },
-          "unit": "1点",
+          "unit": "2枚入",
           "category": "魚",
           "validFrom": "2026-02-16",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "刺身用しめさば大根",
+          "productName": "刺身用銀鮭",
           "price": {
-            "taxExcl": 258,
-            "taxIncl": 278
+            "taxExcl": 179,
+            "taxIncl": 193
           },
-          "unit": "1パック",
+          "unit": "100g",
           "category": "魚",
           "validFrom": "2026-02-16",
           "validTo": "2026-02-28"
@@ -425,46 +436,255 @@
         {
           "productName": "しめさば大根",
           "price": {
-            "taxExcl": 378,
-            "taxIncl": 408
+            "taxExcl": 149,
+            "taxIncl": 161
           },
-          "unit": "1点",
+          "unit": "1パック",
           "category": "魚",
           "validFrom": "2026-02-16",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "なす",
+          "productName": "マコーミックドレッシング",
           "price": {
-            "taxExcl": 138,
-            "taxIncl": 150
+            "taxExcl": 259,
+            "taxIncl": 280
+          },
+          "unit": "各480ml",
+          "category": "他",
+          "validFrom": "2026-02-16",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "オーマイ",
+          "price": {
+            "taxExcl": 333,
+            "taxIncl": 360
+          },
+          "unit": "1箱",
+          "category": "他",
+          "validFrom": "2026-02-16",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "ラングリー",
+          "price": {
+            "taxExcl": 139,
+            "taxIncl": 151
+          },
+          "unit": "1点",
+          "category": "他",
+          "validFrom": "2026-02-16",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "柳田商店 ふさこがね",
+          "price": {
+            "taxExcl": 580,
+            "taxIncl": 627
+          },
+          "unit": "5kg",
+          "category": "他",
+          "validFrom": "2026-02-16",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "ミツカン たれたっぷり!たまご醤油たれ 3P",
+          "price": {
+            "taxExcl": 68,
+            "taxIncl": 74
+          },
+          "unit": "1点",
+          "category": "他",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "国産小麦のうどん 太鼓判",
+          "price": {
+            "taxExcl": 108,
+            "taxIncl": 117
+          },
+          "unit": "1点",
+          "category": "他",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "シ乳業 6Pチーズ",
+          "price": {
+            "taxExcl": 89,
+            "taxIncl": 97
+          },
+          "unit": "1点",
+          "category": "乳製品",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "きゅうり",
+          "price": {
+            "taxExcl": 178,
+            "taxIncl": 193
           },
           "unit": "1袋",
           "category": "野菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
         },
         {
-          "productName": "アスパラ",
+          "productName": "れんこん",
+          "price": {
+            "taxExcl": 58,
+            "taxIncl": 63
+          },
+          "unit": "100g",
+          "category": "野菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "大根",
+          "price": {
+            "taxExcl": 158,
+            "taxIncl": 171
+          },
+          "unit": "1本",
+          "category": "野菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "ぶなしめじ",
           "price": {
             "taxExcl": 98,
             "taxIncl": 106
           },
-          "unit": "1点",
+          "unit": "1パック",
           "category": "野菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
         },
         {
-          "productName": "牛バラ切落し",
+          "productName": "ブロッコリー",
           "price": {
-            "taxExcl": 228,
-            "taxIncl": 247
+            "taxExcl": 158,
+            "taxIncl": 171
+          },
+          "unit": "1個",
+          "category": "野菜",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "甘夏",
+          "price": {
+            "taxExcl": 498,
+            "taxIncl": 538
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "サンふじりんご袋",
+          "price": {
+            "taxExcl": 498,
+            "taxIncl": 538
+          },
+          "unit": "1袋",
+          "category": "果物",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "エリンギ",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1パック",
+          "category": "野菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "あまおういちご",
+          "price": {
+            "taxExcl": 555,
+            "taxIncl": 600
+          },
+          "unit": "1パック",
+          "category": "果物",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "しらぬい",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "BifiXヨーグルト",
+          "price": {
+            "taxExcl": 148,
+            "taxIncl": 160
+          },
+          "unit": "各375g",
+          "category": "乳製品",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "国産豚小間切肉(L)",
+          "price": {
+            "taxExcl": 119,
+            "taxIncl": 129
           },
           "unit": "100g",
           "category": "肉",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "サラダスティック",
+          "price": {
+            "taxExcl": 79,
+            "taxIncl": 86
+          },
+          "unit": "75g",
+          "category": "惣菜",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "ひとくちつつみ",
+          "price": {
+            "taxExcl": 149,
+            "taxIncl": 161
+          },
+          "unit": "各6個入",
+          "category": "惣菜",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "豚ロース切身",
+          "price": {
+            "taxExcl": 109,
+            "taxIncl": 118
+          },
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
         },
         {
           "productName": "若鶏モモ肉",
@@ -472,343 +692,167 @@
             "taxExcl": 119,
             "taxIncl": 129
           },
-          "unit": "100g当り",
+          "unit": "100g",
           "category": "肉",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "ぴんちょうまぐろ",
+          "productName": "国産豚スペアリブ",
           "price": {
-            "taxExcl": 198,
-            "taxIncl": 214
+            "taxExcl": 149,
+            "taxIncl": 161
+          },
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "おかあさんカップみそ",
+          "price": {
+            "taxExcl": 199,
+            "taxIncl": 215
+          },
+          "unit": "650g",
+          "category": "他",
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "productName": "赤魚(粕漬・西京漬)",
+          "price": {
+            "taxExcl": 398,
+            "taxIncl": 430
+          },
+          "unit": "1パック",
+          "category": "魚",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "いつでも新鮮しょうゆ",
+          "price": {
+            "taxExcl": 222,
+            "taxIncl": 240
+          },
+          "unit": "450ml",
+          "category": "他",
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "productName": "国産生椎茸",
+          "price": {
+            "taxExcl": 222,
+            "taxIncl": 240
+          },
+          "unit": "1パック",
+          "category": "野菜",
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "productName": "銀だら切身",
+          "price": {
+            "taxExcl": 158,
+            "taxIncl": 171
           },
           "unit": "100g",
           "category": "魚",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
         },
         {
-          "productName": "なめらか絹",
+          "productName": "若鶏手羽先(L)",
           "price": {
-            "taxExcl": 68,
-            "taxIncl": 74
+            "taxExcl": 79,
+            "taxIncl": 86
+          },
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "productName": "絹美人3P",
+          "price": {
+            "taxExcl": 79,
+            "taxIncl": 86
           },
           "unit": "150g×3",
-          "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "肉餃子\nスープ餃子",
-          "price": {
-            "taxExcl": 159,
-            "taxIncl": 172
-          },
-          "unit": "各12粒",
-          "category": "惣菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "レタス",
-          "price": {
-            "taxExcl": 198,
-            "taxIncl": 214
-          },
-          "unit": "1個",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "きゃべつ",
-          "price": {
-            "taxExcl": 178,
-            "taxIncl": 193
-          },
-          "unit": "1個",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "新たまねぎ",
-          "price": {
-            "taxExcl": 39,
-            "taxIncl": 43
-          },
-          "unit": "100g当り",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "サンふじりんご",
-          "price": {
-            "taxExcl": 158,
-            "taxIncl": 171
-          },
-          "unit": "1個",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "王林りんご",
-          "price": {
-            "taxExcl": 158,
-            "taxIncl": 171
-          },
-          "unit": "1個",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ピーマン",
-          "price": {
-            "taxExcl": 138,
-            "taxIncl": 150
-          },
-          "unit": "1個",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "デコポン",
-          "price": {
-            "taxExcl": 298,
-            "taxIncl": 322
-          },
-          "unit": "1パック",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "完熟金柑",
-          "price": {
-            "taxExcl": 358,
-            "taxIncl": 387
-          },
-          "unit": "1パック",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "あじ開き",
-          "price": {
-            "taxExcl": 358,
-            "taxIncl": 387
-          },
-          "unit": "1パック",
-          "category": "魚",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "豚ロース生姜焼き用 (L)",
-          "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
-          },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "若鶏ムネ肉",
-          "price": {
-            "taxExcl": 88,
-            "taxIncl": 96
-          },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "明太子・たらこ",
-          "price": {
-            "taxExcl": 379,
-            "taxIncl": 410
-          },
-          "unit": "各1パック",
-          "category": "魚",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "焼いておいしい絹厚揚げ",
-          "price": {
-            "taxExcl": 89,
-            "taxIncl": 97
-          },
-          "unit": "2枚入",
-          "category": "惣菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ヤングソース焼きそば",
-          "price": {
-            "taxExcl": 179,
-            "taxIncl": 194
-          },
-          "unit": "各2人前",
-          "category": "惣菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "牧場牛乳",
-          "price": {
-            "taxExcl": 199,
-            "taxIncl": 215
-          },
-          "unit": "1000ml",
           "category": "乳製品",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "ふさこがね",
+          "productName": "厳選5本入ちくわ",
           "price": {
-            "taxExcl": 2999,
-            "taxIncl": 3239
-          },
-          "unit": "5kg",
-          "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "マウントレーニア",
-          "price": {
-            "taxExcl": 118,
-            "taxIncl": 128
-          },
-          "unit": "各240ml",
-          "category": "飲料",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "大きなデニッシュパン",
-          "price": {
-            "taxExcl": 78,
-            "taxIncl": 85
-          },
-          "unit": "各1個",
-          "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "サッポロ一番 旅麺 5食",
-          "price": {
-            "taxExcl": 289,
-            "taxIncl": 313
-          },
-          "unit": "5食",
-          "category": "惣菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "キャノーラ油",
-          "price": {
-            "taxExcl": 299,
-            "taxIncl": 323
-          },
-          "unit": "1000ml",
-          "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "カルピス ピースボトル",
-          "price": {
-            "taxExcl": 269,
-            "taxIncl": 291
-          },
-          "unit": "各470ml",
-          "category": "飲料",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "たべっ子動物バター味",
-          "price": {
-            "taxExcl": 199,
-            "taxIncl": 215
-          },
-          "unit": "各6P",
-          "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "小松菜",
-          "price": {
-            "taxExcl": 111,
-            "taxIncl": 120
+            "taxExcl": 79,
+            "taxIncl": 86
           },
           "unit": "1点",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
+          "category": "魚",
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "豚ロースブロック",
+          "productName": "ピルクル400",
           "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
+            "taxExcl": 199,
+            "taxIncl": 215
           },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
+          "unit": "10P",
+          "category": "乳製品",
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "エバラ焼肉のたれ",
+          "productName": "減塩体に嬉しいしじみ汁",
           "price": {
-            "taxExcl": 139,
-            "taxIncl": 151
+            "taxExcl": 169,
+            "taxIncl": 183
           },
-          "unit": "300g",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
+          "unit": "12食",
+          "category": "飲料",
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "田舎のおかき",
+          "productName": "金のどんぶりレトルト",
+          "price": {
+            "taxExcl": 79,
+            "taxIncl": 86
+          },
+          "unit": "140g",
+          "category": "惣菜",
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "productName": "厚焼(醤油・ごま)",
           "price": {
             "taxExcl": 159,
             "taxIncl": 172
           },
-          "unit": "各8本入",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
+          "unit": "7枚",
+          "category": "惣菜",
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "スープデリ パスタ入り",
+          "productName": "極上かりんとう",
           "price": {
-            "taxExcl": 189,
-            "taxIncl": 205
+            "taxExcl": 159,
+            "taxIncl": 172
           },
-          "unit": "各3食",
-          "category": "惣菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
+          "unit": "1袋",
+          "category": "他",
+          "validFrom": null,
+          "validTo": null
         }
       ],
-      "scrapedAt": "2026-02-22T23:00:01.162Z"
+      "scrapedAt": "2026-02-23T23:51:42.974Z"
     },
     {
       "storeName": "コモディイイダ東十条店",
@@ -860,17 +904,6 @@
         {
           "productName": "千葉県フェア",
           "price": {
-            "taxExcl": 198,
-            "taxIncl": 213
-          },
-          "unit": "1点",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "千葉県フェア",
-          "price": {
             "taxExcl": 138,
             "taxIncl": 149
           },
@@ -880,62 +913,18 @@
           "validTo": "2026-02-23"
         },
         {
-          "productName": "千葉県フェア",
-          "price": {
-            "taxExcl": 198,
-            "taxIncl": 213
-          },
-          "unit": "1点",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ビヒダスフルーツアロエ、ブルーベリー、パウチ",
-          "price": {
-            "taxExcl": 148,
-            "taxIncl": 159
-          },
-          "unit": "1点",
-          "category": "乳製品",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "均一セール品",
-          "price": {
-            "taxExcl": 78,
-            "taxIncl": 84
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "均一セール品",
+          "productName": "肉",
           "price": {
             "taxExcl": 100,
             "taxIncl": 108
           },
           "unit": "1点",
-          "category": "他",
+          "category": "肉",
           "validFrom": "2026-02-23",
           "validTo": "2026-02-24"
         },
         {
-          "productName": "均一セール品",
-          "price": {
-            "taxExcl": 250,
-            "taxIncl": 270
-          },
-          "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "均一セール品",
+          "productName": "魚",
           "price": {
             "taxExcl": 300,
             "taxIncl": 324
@@ -946,18 +935,7 @@
           "validTo": "2026-02-24"
         },
         {
-          "productName": "均一セール品",
-          "price": {
-            "taxExcl": 350,
-            "taxIncl": 378
-          },
-          "unit": "1点",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "均一セール品",
+          "productName": "惣菜",
           "price": {
             "taxExcl": 500,
             "taxIncl": 540
@@ -968,313 +946,71 @@
           "validTo": "2026-02-24"
         },
         {
-          "productName": "均一セール品",
+          "productName": "商品",
           "price": {
-            "taxExcl": 1000,
-            "taxIncl": 1080
+            "taxExcl": 3580,
+            "taxIncl": 3866
           },
           "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "category": "他",
+          "validFrom": "2026-02-21",
+          "validTo": "2026-02-22"
         }
       ],
-      "scrapedAt": "2026-02-22T23:00:19.837Z"
+      "scrapedAt": "2026-02-23T23:51:59.350Z"
     },
     {
       "storeName": "サミット王子桜田通り店",
       "products": [
         {
-          "productName": "水菜",
-          "price": {
-            "taxExcl": 158,
-            "taxIncl": 170
-          },
-          "unit": "1点",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "まぐろ",
-          "price": {
-            "taxExcl": 888,
-            "taxIncl": 959
-          },
-          "unit": "1点",
-          "category": "魚",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
           "productName": "豚肉",
           "price": {
-            "taxExcl": 198,
-            "taxIncl": 213
+            "taxExcl": 135,
+            "taxIncl": 145
           },
           "unit": "100g",
           "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
         },
         {
-          "productName": "トマト",
+          "productName": "ソース",
+          "price": {
+            "taxExcl": 278,
+            "taxIncl": 300
+          },
+          "unit": "1点",
+          "category": "他",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "パスタソース",
+          "price": {
+            "taxExcl": 298,
+            "taxIncl": 322
+          },
+          "unit": "1点",
+          "category": "他",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "お茶",
           "price": {
             "taxExcl": 398,
             "taxIncl": 430
           },
           "unit": "1点",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "豚肉",
-          "price": {
-            "taxExcl": 188,
-            "taxIncl": 203
-          },
-          "unit": "1点",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "鶏肉",
-          "price": {
-            "taxExcl": 118,
-            "taxIncl": 127
-          },
-          "unit": "1点",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ブロッコリー",
-          "price": {
-            "taxExcl": 188,
-            "taxIncl": 203
-          },
-          "unit": "1点",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "フルーツ",
-          "price": {
-            "taxExcl": 138,
-            "taxIncl": 149
-          },
-          "unit": "1点",
-          "category": "果物",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "牛肉",
-          "price": {
-            "taxExcl": 228,
-            "taxIncl": 246
-          },
-          "unit": "1点",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "鮭",
-          "price": {
-            "taxExcl": 358,
-            "taxIncl": 387
-          },
-          "unit": "1点",
-          "category": "魚",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "いちご",
-          "price": {
-            "taxExcl": 530,
-            "taxIncl": 572
-          },
-          "unit": "1点",
-          "category": "果物",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "ペットフード・ペット用品",
-          "price": {
-            "taxExcl": null,
-            "taxIncl": null
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ワイン",
-          "price": {
-            "taxExcl": 678,
-            "taxIncl": 732
-          },
-          "unit": "1点",
-          "category": "飲料",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "缶詰",
-          "price": {
-            "taxExcl": 390,
-            "taxIncl": 421
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "キムチ",
-          "price": {
-            "taxExcl": 438,
-            "taxIncl": 473
-          },
-          "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "梅干",
-          "price": {
-            "taxExcl": 358,
-            "taxIncl": 387
-          },
-          "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ふりかけ",
-          "price": {
-            "taxExcl": 86,
-            "taxIncl": 92
-          },
-          "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-27"
-        },
-        {
-          "productName": "カレー・シチュー",
-          "price": {
-            "taxExcl": 238,
-            "taxIncl": 257
-          },
-          "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-27"
-        },
-        {
-          "productName": "135",
-          "price": {
-            "taxExcl": 125,
-            "taxIncl": 135
-          },
-          "unit": "1点",
-          "category": "肉",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "278",
-          "price": {
-            "taxExcl": 257,
-            "taxIncl": 278
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "298",
-          "price": {
-            "taxExcl": 276,
-            "taxIncl": 298
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "428",
-          "price": {
-            "taxExcl": 396,
-            "taxIncl": 428
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "798",
-          "price": {
-            "taxExcl": 739,
-            "taxIncl": 798
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "99",
-          "price": {
-            "taxExcl": 92,
-            "taxIncl": 99
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "108",
-          "price": {
-            "taxExcl": 100,
-            "taxIncl": 108
-          },
-          "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "298",
-          "price": {
-            "taxExcl": 276,
-            "taxIncl": 298
-          },
-          "unit": "1点",
           "category": "飲料",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "1,028",
+          "productName": "お菓子",
           "price": {
-            "taxExcl": 952,
-            "taxIncl": 1028
+            "taxExcl": 358,
+            "taxIncl": 387
           },
           "unit": "1点",
           "category": "他",
@@ -1282,10 +1018,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "778",
+          "productName": "お菓子",
           "price": {
-            "taxExcl": 720,
-            "taxIncl": 778
+            "taxExcl": 378,
+            "taxIncl": 408
           },
           "unit": "1点",
           "category": "他",
@@ -1293,161 +1029,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "108",
-          "price": {
-            "taxExcl": 100,
-            "taxIncl": 108
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "258",
-          "price": {
-            "taxExcl": 239,
-            "taxIncl": 258
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "89",
-          "price": {
-            "taxExcl": 82,
-            "taxIncl": 89
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "99",
-          "price": {
-            "taxExcl": 92,
-            "taxIncl": 99
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "398",
-          "price": {
-            "taxExcl": 369,
-            "taxIncl": 398
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "188",
-          "price": {
-            "taxExcl": 174,
-            "taxIncl": 188
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "148",
-          "price": {
-            "taxExcl": 137,
-            "taxIncl": 148
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "168",
-          "price": {
-            "taxExcl": 156,
-            "taxIncl": 168
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "99",
-          "price": {
-            "taxExcl": 92,
-            "taxIncl": 99
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "1,480",
-          "price": {
-            "taxExcl": 1370,
-            "taxIncl": 1480
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "198",
-          "price": {
-            "taxExcl": 183,
-            "taxIncl": 198
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "398",
-          "price": {
-            "taxExcl": 369,
-            "taxIncl": 398
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "168",
-          "price": {
-            "taxExcl": 156,
-            "taxIncl": 168
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "218",
-          "price": {
-            "taxExcl": 202,
-            "taxIncl": 218
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "1,080",
+          "productName": "お菓子",
           "price": {
             "taxExcl": 1000,
             "taxIncl": 1080
@@ -1458,10 +1040,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "398",
+          "productName": "ソース",
           "price": {
-            "taxExcl": 369,
-            "taxIncl": 398
+            "taxExcl": 798,
+            "taxIncl": 862
           },
           "unit": "1点",
           "category": "他",
@@ -1469,10 +1051,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "798",
+          "productName": "パスタソース",
           "price": {
-            "taxExcl": 739,
-            "taxIncl": 798
+            "taxExcl": 238,
+            "taxIncl": 257
           },
           "unit": "1点",
           "category": "他",
@@ -1480,10 +1062,21 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "238",
+          "productName": "ジュース",
           "price": {
-            "taxExcl": 220,
-            "taxIncl": 238
+            "taxExcl": 298,
+            "taxIncl": 322
+          },
+          "unit": "1点",
+          "category": "飲料",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "調味料",
+          "price": {
+            "taxExcl": 648,
+            "taxIncl": 700
           },
           "unit": "1点",
           "category": "他",
@@ -1491,10 +1084,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "328",
+          "productName": "調味料",
           "price": {
-            "taxExcl": 304,
-            "taxIncl": 328
+            "taxExcl": 428,
+            "taxIncl": 462
           },
           "unit": "1点",
           "category": "他",
@@ -1502,10 +1095,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "298",
+          "productName": "お菓子",
           "price": {
-            "taxExcl": 276,
-            "taxIncl": 298
+            "taxExcl": 138,
+            "taxIncl": 149
           },
           "unit": "1点",
           "category": "他",
@@ -1513,10 +1106,32 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "648",
+          "productName": "ワイン",
           "price": {
-            "taxExcl": 600,
-            "taxIncl": 648
+            "taxExcl": 1148,
+            "taxIncl": 1240
+          },
+          "unit": "1点",
+          "category": "飲料",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "ワイン",
+          "price": {
+            "taxExcl": 788,
+            "taxIncl": 851
+          },
+          "unit": "1点",
+          "category": "飲料",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "お菓子",
+          "price": {
+            "taxExcl": 578,
+            "taxIncl": 624
           },
           "unit": "1点",
           "category": "他",
@@ -1524,10 +1139,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "428",
+          "productName": "お菓子",
           "price": {
-            "taxExcl": 396,
-            "taxIncl": 428
+            "taxExcl": 778,
+            "taxIncl": 840
           },
           "unit": "1点",
           "category": "他",
@@ -1535,10 +1150,21 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "138",
+          "productName": "ハム",
           "price": {
-            "taxExcl": 128,
-            "taxIncl": 138
+            "taxExcl": 798,
+            "taxIncl": 862
+          },
+          "unit": "1点",
+          "category": "肉",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "お菓子",
+          "price": {
+            "taxExcl": 558,
+            "taxIncl": 603
           },
           "unit": "1点",
           "category": "他",
@@ -1546,10 +1172,21 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "1,148",
+          "productName": "洗剤",
           "price": {
-            "taxExcl": 1063,
-            "taxIncl": 1148
+            "taxExcl": 168,
+            "taxIncl": 181
+          },
+          "unit": "1点",
+          "category": "日用品",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "お菓子",
+          "price": {
+            "taxExcl": 888,
+            "taxIncl": 959
           },
           "unit": "1点",
           "category": "他",
@@ -1557,10 +1194,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "788",
+          "productName": "お菓子",
           "price": {
-            "taxExcl": 730,
-            "taxIncl": 788
+            "taxExcl": 258,
+            "taxIncl": 279
           },
           "unit": "1点",
           "category": "他",
@@ -1568,10 +1205,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "578",
+          "productName": "お菓子",
           "price": {
-            "taxExcl": 535,
-            "taxIncl": 578
+            "taxExcl": 218,
+            "taxIncl": 235
           },
           "unit": "1点",
           "category": "他",
@@ -1579,10 +1216,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "778",
+          "productName": "お菓子",
           "price": {
-            "taxExcl": 720,
-            "taxIncl": 778
+            "taxExcl": 168,
+            "taxIncl": 181
           },
           "unit": "1点",
           "category": "他",
@@ -1590,79 +1227,13 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "798",
+          "productName": "洗剤",
           "price": {
-            "taxExcl": 739,
-            "taxIncl": 798
+            "taxExcl": 1080,
+            "taxIncl": 1166
           },
           "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "558",
-          "price": {
-            "taxExcl": 517,
-            "taxIncl": 558
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "168",
-          "price": {
-            "taxExcl": 156,
-            "taxIncl": 168
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "888",
-          "price": {
-            "taxExcl": 822,
-            "taxIncl": 888
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "258",
-          "price": {
-            "taxExcl": 239,
-            "taxIncl": 258
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "398",
-          "price": {
-            "taxExcl": 369,
-            "taxIncl": 398
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "398",
-          "price": {
-            "taxExcl": 369,
-            "taxIncl": 398
-          },
-          "unit": "1点",
-          "category": "他",
+          "category": "日用品",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
@@ -1678,7 +1249,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "たらこ",
+          "productName": "たらこ・明太子",
           "price": {
             "taxExcl": null,
             "taxIncl": null
@@ -1722,32 +1293,142 @@
           "validTo": "2026-02-28"
         }
       ],
-      "scrapedAt": "2026-02-22T23:01:16.729Z"
+      "scrapedAt": "2026-02-23T23:52:29.159Z"
     },
     {
       "storeName": "スーパーみらべる十条店",
       "products": [
         {
-          "productName": "きゅうり",
+          "productName": "白菜(1/4カット)",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1/4カット",
+          "category": "野菜",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "えのき (1袋)",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1袋",
+          "category": "野菜",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "不揃いごぼう (1袋)",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1袋",
+          "category": "野菜",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "いよかん (1個)",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "生椎茸 (1パック)",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1パック",
+          "category": "野菜",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "アボカド (1個)",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-01",
+          "validTo": "2026-02-28"
+        },
+        {
+          "productName": "なめこ",
+          "price": {
+            "taxExcl": 58,
+            "taxIncl": 63
+          },
+          "unit": "1袋",
+          "category": "野菜",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "レモン",
+          "price": {
+            "taxExcl": 380,
+            "taxIncl": 411
+          },
+          "unit": "1袋",
+          "category": "果物",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "国産かぼちゃ",
+          "price": {
+            "taxExcl": 39,
+            "taxIncl": 43
+          },
+          "unit": "100g当り",
+          "category": "野菜",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "さつまいも",
           "price": {
             "taxExcl": 158,
             "taxIncl": 171
           },
           "unit": "1袋",
           "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "とまとパック",
+          "productName": "里芋",
           "price": {
-            "taxExcl": 198,
-            "taxIncl": 214
+            "taxExcl": 48,
+            "taxIncl": 52
           },
-          "unit": "1パック",
+          "unit": "100g当",
           "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "ポンカン",
+          "price": {
+            "taxExcl": 398,
+            "taxIncl": 430
+          },
+          "unit": "1袋",
+          "category": "果物",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
           "productName": "いちご",
@@ -1757,41 +1438,19 @@
           },
           "unit": "1パック",
           "category": "果物",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "ほうれん草",
+          "productName": "豚ロース切落し",
           "price": {
-            "taxExcl": 128,
-            "taxIncl": 138
+            "taxExcl": 178,
+            "taxIncl": 193
           },
-          "unit": "1袋",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "長ねぎ",
-          "price": {
-            "taxExcl": 158,
-            "taxIncl": 171
-          },
-          "unit": "1束",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "三ヶ日みかん",
-          "price": {
-            "taxExcl": 498,
-            "taxIncl": 538
-          },
-          "unit": "1袋",
-          "category": "果物",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
           "productName": "若鶏手羽元(L)",
@@ -1801,294 +1460,184 @@
           },
           "unit": "100g当り",
           "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
         },
         {
-          "productName": "三元豚ロース しゃぶしゃぶ用",
+          "productName": "まぐろたたき",
+          "price": {
+            "taxExcl": 222,
+            "taxIncl": 240
+          },
+          "unit": "100g当り",
+          "category": "魚",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "ふさこがね",
+          "price": {
+            "taxExcl": 2999,
+            "taxIncl": 3239
+          },
+          "unit": "5kg",
+          "category": "他",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "パイン",
+          "price": {
+            "taxExcl": 333,
+            "taxIncl": 360
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-24",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "若鶏ムネ肉(2枚)",
+          "price": {
+            "taxExcl": 88,
+            "taxIncl": 96
+          },
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "まぐろ切落し",
+          "price": {
+            "taxExcl": 280,
+            "taxIncl": 303
+          },
+          "unit": "100g",
+          "category": "魚",
+          "validFrom": "2026-02-25",
+          "validTo": "2026-02-25"
+        },
+        {
+          "productName": "きゅうり",
+          "price": {
+            "taxExcl": 178,
+            "taxIncl": 193
+          },
+          "unit": "1袋",
+          "category": "野菜",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "れんこん",
+          "price": {
+            "taxExcl": 58,
+            "taxIncl": 63
+          },
+          "unit": "100g",
+          "category": "野菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "大根",
+          "price": {
+            "taxExcl": 158,
+            "taxIncl": 171
+          },
+          "unit": "1本",
+          "category": "野菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "ぶなしめじ",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1パック",
+          "category": "野菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "ブロッコリー",
+          "price": {
+            "taxExcl": 158,
+            "taxIncl": 171
+          },
+          "unit": "1個",
+          "category": "野菜",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "甘夏",
+          "price": {
+            "taxExcl": 498,
+            "taxIncl": 538
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "サンふじりんご袋",
+          "price": {
+            "taxExcl": 498,
+            "taxIncl": 538
+          },
+          "unit": "1袋",
+          "category": "果物",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "エリンギ",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1パック",
+          "category": "野菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "あまおういちご",
+          "price": {
+            "taxExcl": 555,
+            "taxIncl": 600
+          },
+          "unit": "1パック",
+          "category": "果物",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "しらぬい",
+          "price": {
+            "taxExcl": 98,
+            "taxIncl": 106
+          },
+          "unit": "1個",
+          "category": "果物",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "国産豚小間切肉(L)",
           "price": {
             "taxExcl": 119,
             "taxIncl": 129
           },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "豚挽肉(L)",
-          "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
-          },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "バナメイ海老",
-          "price": {
-            "taxExcl": 148,
-            "taxIncl": 160
-          },
-          "unit": "100g",
-          "category": "魚",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "甘塩銀鮭切身3切入",
-          "price": {
-            "taxExcl": 399,
-            "taxIncl": 431
-          },
-          "unit": "1パック",
-          "category": "魚",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-21"
-        },
-        {
-          "productName": "にじのきらめき",
-          "price": {
-            "taxExcl": 3480,
-            "taxIncl": 3759
-          },
-          "unit": "5kg",
-          "category": "他",
-          "validFrom": "2026-02-17",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "かぼちゃ",
-          "price": {
-            "taxExcl": 29,
-            "taxIncl": 32
-          },
-          "unit": "100g当り",
-          "category": "野菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "グレープフルーツルビー",
-          "price": {
-            "taxExcl": 358,
-            "taxIncl": 387
-          },
-          "unit": "1袋",
-          "category": "果物",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "三元豚プルコギ用 味付(カタ)(M)",
-          "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
-          },
           "unit": "100g",
           "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "香薫ウインナー",
-          "price": {
-            "taxExcl": 268,
-            "taxIncl": 290
-          },
-          "unit": "90g×2P",
-          "category": "肉",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "おかめ納豆 極小粒 ミニ3",
-          "price": {
-            "taxExcl": 69,
-            "taxIncl": 75
-          },
-          "unit": "50g×3",
-          "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "肉まん",
-          "price": {
-            "taxExcl": 399,
-            "taxIncl": 431
-          },
-          "unit": "3個入",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "えびと玉ねぎの寄せ揚",
-          "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
-          },
-          "unit": "3個入",
-          "category": "惣菜",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ビヒダスプレーンヨーグルト",
-          "price": {
-            "taxExcl": 139,
-            "taxIncl": 151
-          },
-          "unit": "400g",
-          "category": "乳製品",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "毎日おいしいローストアーモンドミルク",
-          "price": {
-            "taxExcl": 268,
-            "taxIncl": 290
-          },
-          "unit": "1000ml",
-          "category": "飲料",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ブレンディ IC まろやかな香り袋",
-          "price": {
-            "taxExcl": 449,
-            "taxIncl": 485
-          },
-          "unit": "90g",
-          "category": "飲料",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "BOXチョコ",
-          "price": {
-            "taxExcl": 269,
-            "taxIncl": 290
-          },
-          "unit": "51g",
-          "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "人の珈琲 PET",
-          "price": {
-            "taxExcl": 98,
-            "taxIncl": 106
-          },
-          "unit": "900ml",
-          "category": "飲料",
-          "validFrom": "2026-02-16",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "クラシックコーヒー",
-          "price": {
-            "taxExcl": 598,
-            "taxIncl": 645
-          },
-          "unit": "1袋",
-          "category": "飲料",
-          "validFrom": "2026-02-16",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "シスコーン",
-          "price": {
-            "taxExcl": 189,
-            "taxIncl": 204
-          },
-          "unit": "1袋",
-          "category": "他",
-          "validFrom": "2026-02-16",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "きざみ揚げ",
-          "price": {
-            "taxExcl": 149,
-            "taxIncl": 161
-          },
-          "unit": "100g",
-          "category": "他",
-          "validFrom": "2026-02-16",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "「真打」うどん2食",
-          "price": {
-            "taxExcl": 169,
-            "taxIncl": 183
-          },
-          "unit": "200g×2",
-          "category": "惣菜",
-          "validFrom": "2026-02-16",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "ほっけ",
-          "price": {
-            "taxExcl": 580,
-            "taxIncl": 627
-          },
-          "unit": "1点",
-          "category": "魚",
-          "validFrom": "2026-02-16",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "刺身用しめさば",
-          "price": {
-            "taxExcl": 258,
-            "taxIncl": 278
-          },
-          "unit": "1パック",
-          "category": "魚",
-          "validFrom": "2026-02-16",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "高知県産などの国内産 なす",
-          "price": {
-            "taxExcl": 139,
-            "taxIncl": 150
-          },
-          "unit": "1袋",
-          "category": "野菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "メキシコ産などの輸入品 アスパラ",
-          "price": {
-            "taxExcl": 98,
-            "taxIncl": 106
-          },
-          "unit": "1袋",
-          "category": "野菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "牛バラ切落し",
-          "price": {
-            "taxExcl": 228,
-            "taxIncl": 247
-          },
-          "unit": "100g",
-          "category": "肉",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
         },
         {
           "productName": "若鶏モモ肉",
@@ -2096,501 +1645,215 @@
             "taxExcl": 119,
             "taxIncl": 129
           },
-          "unit": "100g当り",
+          "unit": "100g",
           "category": "肉",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
         },
         {
-          "productName": "ぴんちょうまぐろ",
+          "productName": "BifiXヨーグルト",
           "price": {
-            "taxExcl": 198,
-            "taxIncl": 214
+            "taxExcl": 148,
+            "taxIncl": 160
+          },
+          "unit": "375g",
+          "category": "乳製品",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "サラダスティック",
+          "price": {
+            "taxExcl": 79,
+            "taxIncl": 86
+          },
+          "unit": "75g",
+          "category": "惣菜",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "ひとくちつつみ",
+          "price": {
+            "taxExcl": 149,
+            "taxIncl": 161
+          },
+          "unit": "6個入",
+          "category": "惣菜",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "豚ロース切身",
+          "price": {
+            "taxExcl": 109,
+            "taxIncl": 118
+          },
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "国産豚スペアリブ",
+          "price": {
+            "taxExcl": 149,
+            "taxIncl": 161
+          },
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "銀だら切身",
+          "price": {
+            "taxExcl": 158,
+            "taxIncl": 171
           },
           "unit": "100g",
           "category": "魚",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
         },
         {
-          "productName": "あじ開き",
+          "productName": "おかあさんカップみそ",
           "price": {
-            "taxExcl": 358,
-            "taxIncl": 387
+            "taxExcl": 199,
+            "taxIncl": 215
+          },
+          "unit": "650g",
+          "category": "他",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "いつでも新鮮しょうゆ",
+          "price": {
+            "taxExcl": 222,
+            "taxIncl": 240
+          },
+          "unit": "450ml",
+          "category": "他",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "赤魚(粕漬・西京漬)",
+          "price": {
+            "taxExcl": 398,
+            "taxIncl": 430
           },
           "unit": "1パック",
           "category": "魚",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
         },
         {
-          "productName": "三和豆水庵 なめらか絹",
+          "productName": "極上かりんとう",
           "price": {
-            "taxExcl": 68,
-            "taxIncl": 74
+            "taxExcl": 159,
+            "taxIncl": 172
+          },
+          "unit": "1袋",
+          "category": "他",
+          "validFrom": "2026-02-26",
+          "validTo": "2026-02-26"
+        },
+        {
+          "productName": "国産生椎茸",
+          "price": {
+            "taxExcl": 222,
+            "taxIncl": 240
+          },
+          "unit": "1パック",
+          "category": "野菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "若鶏手羽先(L)",
+          "price": {
+            "taxExcl": 79,
+            "taxIncl": 86
+          },
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "減塩体に嬉しいしじみ汁",
+          "price": {
+            "taxExcl": 169,
+            "taxIncl": 183
+          },
+          "unit": "12食",
+          "category": "他",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "金のどんぶりレトルト",
+          "price": {
+            "taxExcl": 79,
+            "taxIncl": 86
+          },
+          "unit": "140g",
+          "category": "惣菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "厚焼(醤油・ごま)",
+          "price": {
+            "taxExcl": 159,
+            "taxIncl": 172
+          },
+          "unit": "7枚",
+          "category": "惣菜",
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
+        },
+        {
+          "productName": "網美人3P",
+          "price": {
+            "taxExcl": 79,
+            "taxIncl": 86
           },
           "unit": "150g×3",
-          "category": "乳製品",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "紀文 肉餃子・スープ餃子",
-          "price": {
-            "taxExcl": 159,
-            "taxIncl": 172
-          },
-          "unit": "各12粒",
-          "category": "惣菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "柳田商店 千葉県産 ふさこがね",
-          "price": {
-            "taxExcl": 2999,
-            "taxIncl": 3239
-          },
-          "unit": "5kg",
           "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
         },
         {
-          "productName": "静岡県産などの国内産 レタス",
+          "productName": "厳選5本入ちくわ",
           "price": {
-            "taxExcl": 198,
-            "taxIncl": 214
+            "taxExcl": 79,
+            "taxIncl": 86
           },
-          "unit": "1個",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "青森県産などの国内産 サンふじりんご",
-          "price": {
-            "taxExcl": 158,
-            "taxIncl": 171
-          },
-          "unit": "1個",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "青森県産などの国内産 王林りんご",
-          "price": {
-            "taxExcl": 158,
-            "taxIncl": 171
-          },
-          "unit": "1個",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "千葉県産などの国内産 きゃべつ",
-          "price": {
-            "taxExcl": 178,
-            "taxIncl": 193
-          },
-          "unit": "1個",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "静岡県産などの国内産 新たまねぎ",
-          "price": {
-            "taxExcl": 39,
-            "taxIncl": 43
-          },
-          "unit": "100g当り",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "宮崎県産などの国内産 ピーマン",
-          "price": {
-            "taxExcl": 138,
-            "taxIncl": 150
-          },
-          "unit": "1個",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "愛媛県産などの国内産 デコポン",
-          "price": {
-            "taxExcl": 298,
-            "taxIncl": 322
-          },
-          "unit": "1パック",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "鹿児島県産などの国内産 完熟金柑",
-          "price": {
-            "taxExcl": 358,
-            "taxIncl": 387
-          },
-          "unit": "1パック",
-          "category": "果物",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "豚ロース生姜焼き用 (L)",
-          "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
-          },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "若鶏ムネ肉",
-          "price": {
-            "taxExcl": 88,
-            "taxIncl": 96
-          },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "かねふく 明太子・たらこ",
-          "price": {
-            "taxExcl": 379,
-            "taxIncl": 410
-          },
-          "unit": "各1パック",
+          "unit": "1点",
           "category": "魚",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
         },
         {
-          "productName": "相模屋 焼いておいしい絹厚揚げ",
-          "price": {
-            "taxExcl": 89,
-            "taxIncl": 97
-          },
-          "unit": "2枚入",
-          "category": "惣菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ペヤングソース焼きそば",
-          "price": {
-            "taxExcl": 179,
-            "taxIncl": 194
-          },
-          "unit": "2人前",
-          "category": "惣菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "ジャパンミートオリジナル 牧場牛乳",
+          "productName": "ピルクル400",
           "price": {
             "taxExcl": 199,
             "taxIncl": 215
           },
-          "unit": "1000ml",
-          "category": "乳製品",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-23"
-        },
-        {
-          "productName": "第一パン 大きなデニッシュパン",
-          "price": {
-            "taxExcl": 78,
-            "taxIncl": 85
-          },
-          "unit": "1個",
-          "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "マウントレーニア",
-          "price": {
-            "taxExcl": 118,
-            "taxIncl": 128
-          },
-          "unit": "各240ml",
+          "unit": "65ml×10",
           "category": "飲料",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "サッポロ一番 旅麺 5食",
-          "price": {
-            "taxExcl": 289,
-            "taxIncl": 313
-          },
-          "unit": "5食",
-          "category": "惣菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "昭和産業 キャノーラ油",
-          "price": {
-            "taxExcl": 299,
-            "taxIncl": 323
-          },
-          "unit": "1000ml",
-          "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "カルピス ピースボトル",
-          "price": {
-            "taxExcl": 269,
-            "taxIncl": 291
-          },
-          "unit": "470ml",
-          "category": "飲料",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "スープデリ パスタ入り",
-          "price": {
-            "taxExcl": 189,
-            "taxIncl": 205
-          },
-          "unit": "3食",
-          "category": "惣菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "茨城県産などの国内産 小松菜",
-          "price": {
-            "taxExcl": 111,
-            "taxIncl": 120
-          },
-          "unit": "1束",
-          "category": "野菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "豚ロースブロック",
-          "price": {
-            "taxExcl": 109,
-            "taxIncl": 118
-          },
-          "unit": "100g当り",
-          "category": "肉",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "エバラ焼肉のたれ",
-          "price": {
-            "taxExcl": 139,
-            "taxIncl": 151
-          },
-          "unit": "300g",
-          "category": "他",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "岩塚製菓 田舎のおかき",
-          "price": {
-            "taxExcl": 159,
-            "taxIncl": 172
-          },
-          "unit": "8本入",
-          "category": "惣菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "ギンビス たべっ子動物バター味",
-          "price": {
-            "taxExcl": 199,
-            "taxIncl": 215
-          },
-          "unit": "6P",
-          "category": "惣菜",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
+          "validFrom": "2026-02-27",
+          "validTo": "2026-02-27"
         }
       ],
-      "scrapedAt": "2026-02-22T23:02:20.396Z"
+      "scrapedAt": "2026-02-23T23:53:22.518Z"
     },
     {
       "storeName": "オーケー十条店",
       "products": [
-        {
-          "productName": "ニコニコのり 焼きざみのり",
-          "price": {
-            "taxExcl": 259,
-            "taxIncl": 279
-          },
-          "unit": "10g",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "九州産 原木栽培 スライス椎茸",
-          "price": {
-            "taxExcl": 398,
-            "taxIncl": 429
-          },
-          "unit": "20g",
-          "category": "野菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "結城屋けづか物産 匠の技 かんぴょう",
-          "price": {
-            "taxExcl": 217,
-            "taxIncl": 234
-          },
-          "unit": "30g",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "mizkan 五目ちらし (ちらし寿司の素)",
-          "price": {
-            "taxExcl": 168,
-            "taxIncl": 181
-          },
-          "unit": "2~3人前×2袋",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "mizkan すし酢 昆布だし入り",
-          "price": {
-            "taxExcl": 281,
-            "taxIncl": 303
-          },
-          "unit": "500ml",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "キユーピー 玉九 錦糸たまご",
-          "price": {
-            "taxExcl": 138,
-            "taxIncl": 149
-          },
-          "unit": "40g",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "でん六 小袋甘納豆",
-          "price": {
-            "taxExcl": 271,
-            "taxIncl": 292
-          },
-          "unit": "180g",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "エステー ムシューダ 人形用",
-          "price": {
-            "taxExcl": 225,
-            "taxIncl": 247
-          },
-          "unit": "8個",
-          "category": "日用品",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "MARUHA NICHIRO (マルハニチロ) あおり炒めの焼豚炒飯",
-          "price": {
-            "taxExcl": 280,
-            "taxIncl": 302
-          },
-          "unit": "450g",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "ニチレイ 特から",
-          "price": {
-            "taxExcl": 398,
-            "taxIncl": 429
-          },
-          "unit": "380g",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "ヤマザキ アップルパイ",
-          "price": {
-            "taxExcl": 99,
-            "taxIncl": 106
-          },
-          "unit": "1個",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "Pasco 十勝バターチョコスティック",
-          "price": {
-            "taxExcl": 154,
-            "taxIncl": 166
-          },
-          "unit": "6本",
-          "category": "他",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "エリエール 贅沢保湿ティシュー",
-          "price": {
-            "taxExcl": 548,
-            "taxIncl": 602
-          },
-          "unit": "200組×3個",
-          "category": "日用品",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "旭化成 Ziploc フリーザーバッグ",
-          "price": {
-            "taxExcl": 478,
-            "taxIncl": 525
-          },
-          "unit": "M 45枚",
-          "category": "日用品",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
         {
           "productName": "武蔵製菓 道明寺つぶあん・桜餅こしあん",
           "price": {
@@ -2600,10 +1863,10 @@
           "unit": "4個",
           "category": "他",
           "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "validTo": "2026-02-23"
         },
         {
-          "productName": "タカナシ 特選 北海道 純生クリーム35",
+          "productName": "タカナシ 特選 北海道 純生クリーム 35",
           "price": {
             "taxExcl": 343,
             "taxIncl": 370
@@ -2611,7 +1874,7 @@
           "unit": "200ml",
           "category": "乳製品",
           "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "validTo": "2026-02-23"
         },
         {
           "productName": "よつ葉バター 食塩不使用",
@@ -2622,7 +1885,7 @@
           "unit": "150g",
           "category": "乳製品",
           "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "validTo": "2026-02-23"
         },
         {
           "productName": "ヤマザキ 苺のショートケーキ",
@@ -2642,7 +1905,7 @@
             "taxIncl": 444
           },
           "unit": "70g×2個",
-          "category": "魚",
+          "category": "他",
           "validFrom": "2026-02-23",
           "validTo": "2026-02-23"
         },
@@ -2653,9 +1916,9 @@
             "taxIncl": 190
           },
           "unit": "60g",
-          "category": "魚",
+          "category": "他",
           "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "validTo": "2026-02-23"
         },
         {
           "productName": "八尾製麩 立山印 小花麩",
@@ -2666,7 +1929,172 @@
           "unit": "40g",
           "category": "他",
           "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "エステー ムシューダ 人形用",
+          "price": {
+            "taxExcl": 225,
+            "taxIncl": 247
+          },
+          "unit": "8個",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "ニコニコのり 焼きざみのり",
+          "price": {
+            "taxExcl": 259,
+            "taxIncl": 279
+          },
+          "unit": "10g",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "九州産 原木栽培 スライス椎茸",
+          "price": {
+            "taxExcl": 398,
+            "taxIncl": 429
+          },
+          "unit": "20g",
+          "category": "野菜",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "結城屋けづか物産 匠の技 かんぴょう",
+          "price": {
+            "taxExcl": 217,
+            "taxIncl": 234
+          },
+          "unit": "30g",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "mizkan 五目ちらし",
+          "price": {
+            "taxExcl": 168,
+            "taxIncl": 181
+          },
+          "unit": "2~3人前×2袋",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "mizkan すし酢 昆布だし入り",
+          "price": {
+            "taxExcl": 281,
+            "taxIncl": 303
+          },
+          "unit": "500ml",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "キユーピー 玉九 錦糸たまご",
+          "price": {
+            "taxExcl": 138,
+            "taxIncl": 149
+          },
+          "unit": "40g",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "でん六 小袋甘納豆",
+          "price": {
+            "taxExcl": 271,
+            "taxIncl": 292
+          },
+          "unit": "180g",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "MARUHA NICHIRO あおり炒めの焼豚炒飯",
+          "price": {
+            "taxExcl": 280,
+            "taxIncl": 302
+          },
+          "unit": "450g",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "ニチレイ 特から",
+          "price": {
+            "taxExcl": 398,
+            "taxIncl": 429
+          },
+          "unit": "380g",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "ヤマザキ アップルパイ",
+          "price": {
+            "taxExcl": 99,
+            "taxIncl": 106
+          },
+          "unit": "1個",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "Pasco 十勝バターチョコスティック",
+          "price": {
+            "taxExcl": 154,
+            "taxIncl": 166
+          },
+          "unit": "6本",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "エリエール 贅沢保湿ティシュー",
+          "price": {
+            "taxExcl": 548,
+            "taxIncl": 602
+          },
+          "unit": "200組×3個",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "ADA やわらかプレミアムマスク",
+          "price": {
+            "taxExcl": 498,
+            "taxIncl": 547
+          },
+          "unit": "60枚",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "旭化成 Ziploc フリーザーバッグ M",
+          "price": {
+            "taxExcl": 478,
+            "taxIncl": 525
+          },
+          "unit": "45枚",
+          "category": "他",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
         },
         {
           "productName": "MORINAGA アーモンド ガレットサンド",
@@ -2713,18 +2141,29 @@
           "validTo": "2026-02-24"
         },
         {
+          "productName": "Nipponham (ニッポンハム) とろける4種チーズの ハンバーグ",
+          "price": {
+            "taxExcl": 485,
+            "taxIncl": 523
+          },
+          "unit": "6個",
+          "category": "他",
+          "validFrom": "2026-03-01",
+          "validTo": "2026-03-01"
+        },
+        {
           "productName": "龍角散のどすっきり飴",
           "price": {
             "taxExcl": 201,
-            "taxIncl": 217.9
+            "taxIncl": 217
           },
           "unit": "100g",
           "category": "他",
           "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "validTo": "2026-02-23"
         },
         {
-          "productName": "アサヒビール スタイルバランス ハイボール ノンアルコール(カクテルテイスト飲料)",
+          "productName": "アサヒビール スタイルバランス ハイボール ノンアルコール",
           "price": {
             "taxExcl": 97,
             "taxIncl": 104
@@ -2732,18 +2171,7 @@
           "unit": "350ml",
           "category": "飲料",
           "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "ADA やわらかプレミアムマスク ふつうサイズ",
-          "price": {
-            "taxExcl": 498,
-            "taxIncl": 547
-          },
-          "unit": "60枚",
-          "category": "日用品",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "validTo": "2026-02-23"
         },
         {
           "productName": "フジッコ おまめさん ふっくら大粒 丹波黒黒豆",
@@ -2752,9 +2180,9 @@
             "taxIncl": 308
           },
           "unit": "135g",
-          "category": "惣菜",
+          "category": "他",
           "validFrom": "2026-02-23",
-          "validTo": "2026-02-24"
+          "validTo": "2026-02-23"
         },
         {
           "productName": "海鮮バラちらしセット えび入り",
@@ -2801,7 +2229,7 @@
           "validTo": "2026-03-01"
         },
         {
-          "productName": "スモークサーモントラウト 切り落とし 生食用 養殖 チリ産原料(加工:国内)",
+          "productName": "スモークサーモントラウト 切り落とし",
           "price": {
             "taxExcl": 484,
             "taxIncl": 522
@@ -2812,7 +2240,7 @@
           "validTo": "2026-03-01"
         },
         {
-          "productName": "銀鮭(甘口) 切身 養殖 昆布だし仕込み チリ産原料(加工:国内)",
+          "productName": "銀鮭(甘口) 切身 養殖",
           "price": {
             "taxExcl": 222,
             "taxIncl": 239
@@ -2823,7 +2251,7 @@
           "validTo": "2026-03-01"
         },
         {
-          "productName": "銀鮭 西京漬 利尻昆布だし入り チリ産原料(加工:国内)",
+          "productName": "銀鮭 西京漬 利尻昆布だし入り",
           "price": {
             "taxExcl": 223,
             "taxIncl": 240
@@ -2841,6 +2269,17 @@
           },
           "unit": "7個",
           "category": "魚",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-03-01"
+        },
+        {
+          "productName": "白いちご",
+          "price": {
+            "taxExcl": null,
+            "taxIncl": null
+          },
+          "unit": "1点",
+          "category": "果物",
           "validFrom": "2026-02-23",
           "validTo": "2026-03-01"
         },
@@ -2889,12 +2328,12 @@
           "validTo": "2026-03-01"
         },
         {
-          "productName": "ふっくら 揚げたこ焼き 8個+2個増量",
+          "productName": "ふっくら 揚げたこ焼き",
           "price": {
             "taxExcl": 281,
             "taxIncl": 303
           },
-          "unit": "1点",
+          "unit": "8個+2個増量",
           "category": "惣菜",
           "validFrom": "2026-02-23",
           "validTo": "2026-03-01"
@@ -2911,7 +2350,51 @@
           "validTo": "2026-03-01"
         },
         {
-          "productName": "和牛(黒毛和種)A4・A5等級 肩ロース・肩肉 極うすぎり (1.0~1.5mmカット)",
+          "productName": "ミックスチーズ",
+          "price": {
+            "taxExcl": 775,
+            "taxIncl": 837
+          },
+          "unit": "1点",
+          "category": "乳製品",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-03-01"
+        },
+        {
+          "productName": "手作り 牛すき焼きピザ",
+          "price": {
+            "taxExcl": 775,
+            "taxIncl": 837
+          },
+          "unit": "1点",
+          "category": "惣菜",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-03-01"
+        },
+        {
+          "productName": "国産鶏レバー 赤ワイン煮",
+          "price": {
+            "taxExcl": 159,
+            "taxIncl": 171
+          },
+          "unit": "100g",
+          "category": "惣菜",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-03-01"
+        },
+        {
+          "productName": "喫茶店風ナポリタン",
+          "price": {
+            "taxExcl": 281,
+            "taxIncl": 303
+          },
+          "unit": "1点",
+          "category": "惣菜",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-03-01"
+        },
+        {
+          "productName": "和牛(黒毛和種)A4・A5等級 肩ロース・肩肉",
           "price": {
             "taxExcl": 543,
             "taxIncl": 586
@@ -2933,18 +2416,7 @@
           "validTo": "2026-03-01"
         },
         {
-          "productName": "スターゼン 輸入牛ローストビーフスライス",
-          "price": {
-            "taxExcl": 564,
-            "taxIncl": 609
-          },
-          "unit": "80g",
-          "category": "肉",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-03-01"
-        },
-        {
-          "productName": "豚ロース肉 厚切り (5.0~7.0mmカット)",
+          "productName": "豚ロース肉 厚切り",
           "price": {
             "taxExcl": 161,
             "taxIncl": 173
@@ -2955,35 +2427,13 @@
           "validTo": "2026-03-01"
         },
         {
-          "productName": "ミックスチーズ",
+          "productName": "スターゼン 輸入牛ローストビーフスライス",
           "price": {
-            "taxExcl": 775,
-            "taxIncl": 837.9
+            "taxExcl": 564,
+            "taxIncl": 609
           },
-          "unit": "1点",
-          "category": "乳製品",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-03-01"
-        },
-        {
-          "productName": "国産鶏レバー 赤ワイン煮",
-          "price": {
-            "taxExcl": 159,
-            "taxIncl": 171
-          },
-          "unit": "100g",
-          "category": "惣菜",
-          "validFrom": "2026-02-23",
-          "validTo": "2026-03-01"
-        },
-        {
-          "productName": "喫茶店風ナポリタン 麺10%増量",
-          "price": {
-            "taxExcl": 281,
-            "taxIncl": 303
-          },
-          "unit": "1点",
-          "category": "惣菜",
+          "unit": "80g",
+          "category": "肉",
           "validFrom": "2026-02-23",
           "validTo": "2026-03-01"
         },
@@ -2999,7 +2449,7 @@
           "validTo": "2026-03-01"
         }
       ],
-      "scrapedAt": "2026-02-22T23:03:24.027Z"
+      "scrapedAt": "2026-02-23T23:54:27.888Z"
     },
     {
       "storeName": "業務スーパー王子店",
@@ -3016,7 +2466,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ブルガリアヨーグルトLB81(プレーン・脂肪0プレーン)",
+          "productName": "ブルガリア ヨーグルトLB81 (プレーン・脂肪0プレーン)",
           "price": {
             "taxExcl": 145,
             "taxIncl": 156.6
@@ -3049,7 +2499,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "炭酸水(プレーン・レモン)",
+          "productName": "炭酸水 (プレーン・レモン)",
           "price": {
             "taxExcl": 36,
             "taxIncl": 38.88
@@ -3082,18 +2532,18 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "スンドゥブチゲの素(キムチ味・海鮮味)",
+          "productName": "スンドゥブチゲの素 (キムチ味・海鮮味)",
           "price": {
             "taxExcl": 120,
             "taxIncl": 129.6
           },
           "unit": "150g",
-          "category": "他",
+          "category": "惣菜",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "とろけるカレー(甘口・中辛・辛口)",
+          "productName": "とろけるカレー (甘口・中辛・辛口)",
           "price": {
             "taxExcl": 148,
             "taxIncl": 159.84
@@ -3110,12 +2560,12 @@
             "taxIncl": 199.8
           },
           "unit": "11枚入",
-          "category": "他",
+          "category": "惣菜",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "4種のチーズパスタ(パスタ入り)",
+          "productName": "4種のチーズパスタ (パスタ入り)",
           "price": {
             "taxExcl": 198,
             "taxIncl": 213.84
@@ -3132,7 +2582,7 @@
             "taxIncl": 224.64
           },
           "unit": "6袋入",
-          "category": "他",
+          "category": "惣菜",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
@@ -3148,18 +2598,18 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ふっくらおいしいごはん",
+          "productName": "ふっくらおいしい ごはん",
           "price": {
             "taxExcl": 1158,
             "taxIncl": 1250.64
           },
-          "unit": "200g×10パック",
-          "category": "他",
+          "unit": "10食パック",
+          "category": "惣菜",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ボロネーゼ(パスタ入り)",
+          "productName": "ボロネーゼ (パスタ入り)",
           "price": {
             "taxExcl": 218,
             "taxIncl": 235.44
@@ -3192,7 +2642,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "おいしさ選べるスープ春雨",
+          "productName": "おいしさ選べる スープ春雨",
           "price": {
             "taxExcl": 278,
             "taxIncl": 300.24
@@ -3220,7 +2670,7 @@
             "taxIncl": 343.44
           },
           "unit": "6本",
-          "category": "惣菜",
+          "category": "肉",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
@@ -3242,18 +2692,29 @@
             "taxIncl": 321.84
           },
           "unit": "750g",
-          "category": "他",
+          "category": "惣菜",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "カゴメ 基本のトマトソース",
+          "productName": "KAGOME カゴメ 基本のトマトソース",
           "price": {
             "taxExcl": null,
             "taxIncl": null
           },
           "unit": "1点",
           "category": "他",
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "productName": "ミートパイ",
+          "price": {
+            "taxExcl": null,
+            "taxIncl": null
+          },
+          "unit": "1点",
+          "category": "惣菜",
           "validFrom": null,
           "validTo": null
         },
@@ -3291,7 +2752,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "綿混クルーソックス 2足組",
+          "productName": "綿混クルーソックス2足組",
           "price": {
             "taxExcl": 399,
             "taxIncl": 438.9
@@ -3346,7 +2807,7 @@
           "validTo": "2026-02-21"
         },
         {
-          "productName": "長なす",
+          "productName": "きゅうり",
           "price": {
             "taxExcl": 179,
             "taxIncl": 194
@@ -3375,6 +2836,17 @@
           },
           "unit": "1パック",
           "category": "果物",
+          "validFrom": "2026-02-21",
+          "validTo": "2026-02-21"
+        },
+        {
+          "productName": "長ねぎ",
+          "price": {
+            "taxExcl": 179,
+            "taxIncl": 194
+          },
+          "unit": "1点",
+          "category": "野菜",
           "validFrom": "2026-02-21",
           "validTo": "2026-02-21"
         },
@@ -3428,7 +2900,7 @@
             "taxExcl": 1000,
             "taxIncl": 1080
           },
-          "unit": "1点",
+          "unit": "5kg",
           "category": "果物",
           "validFrom": "2026-02-22",
           "validTo": "2026-02-22"
@@ -3439,41 +2911,19 @@
             "taxExcl": 1980,
             "taxIncl": 2139
           },
-          "unit": "1点",
+          "unit": "18カン",
           "category": "惣菜",
           "validFrom": "2026-02-22",
           "validTo": "2026-02-22"
         },
         {
-          "productName": "国産若鶏挽肉LL",
+          "productName": "ピーマン",
           "price": {
-            "taxExcl": 69,
-            "taxIncl": 75
+            "taxExcl": 139,
+            "taxIncl": 151
           },
-          "unit": "100g",
-          "category": "肉",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "本まぐろ中トロ入りお刺身盛合せ",
-          "price": {
-            "taxExcl": 1680,
-            "taxIncl": 1815
-          },
-          "unit": "1点",
-          "category": "魚",
-          "validFrom": "2026-02-22",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "国産若鶏ムネ肉",
-          "price": {
-            "taxExcl": 75,
-            "taxIncl": 81
-          },
-          "unit": "100g",
-          "category": "肉",
+          "unit": "1袋",
+          "category": "野菜",
           "validFrom": "2026-02-23",
           "validTo": "2026-02-23"
         },
@@ -3505,8 +2955,19 @@
             "taxExcl": 1000,
             "taxIncl": 1080
           },
-          "unit": "1点",
+          "unit": "5kg",
           "category": "果物",
+          "validFrom": "2026-02-23",
+          "validTo": "2026-02-23"
+        },
+        {
+          "productName": "国産若鶏ムネ肉",
+          "price": {
+            "taxExcl": 75,
+            "taxIncl": 81
+          },
+          "unit": "100g",
+          "category": "肉",
           "validFrom": "2026-02-23",
           "validTo": "2026-02-23"
         },
@@ -3533,51 +2994,29 @@
           "validTo": "2026-02-23"
         },
         {
-          "productName": "ロースハム切り落とし",
+          "productName": "ロースハム",
           "price": {
             "taxExcl": 69,
             "taxIncl": 75
           },
           "unit": "100g",
-          "category": "惣菜",
+          "category": "肉",
           "validFrom": "2026-02-21",
           "validTo": "2026-02-27"
         },
         {
-          "productName": "踊り七福ミニきぬ3P",
+          "productName": "国産若鶏挽肉LL",
           "price": {
-            "taxExcl": 59,
-            "taxIncl": 64
+            "taxExcl": 69,
+            "taxIncl": 75
           },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-27"
-        },
-        {
-          "productName": "スーパーカップ1.5倍",
-          "price": {
-            "taxExcl": 99,
-            "taxIncl": 107
-          },
-          "unit": "1個",
-          "category": "他",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-27"
-        },
-        {
-          "productName": "ヘルシーごま香油",
-          "price": {
-            "taxExcl": 129,
-            "taxIncl": 140
-          },
-          "unit": "1本",
-          "category": "日用品",
-          "validFrom": "2026-02-21",
-          "validTo": "2026-02-27"
+          "unit": "100g",
+          "category": "肉",
+          "validFrom": "2026-02-22",
+          "validTo": "2026-02-22"
         }
       ],
-      "scrapedAt": "2026-02-22T23:04:33.243Z"
+      "scrapedAt": "2026-02-23T23:55:40.556Z"
     },
     {
       "storeName": "イオンスタイル赤羽店",
@@ -3589,12 +3028,12 @@
             "taxIncl": 429.84
           },
           "unit": "3点",
-          "category": "果物",
+          "category": "野菜",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-22"
         },
         {
-          "productName": "国産豚 かたロースかたまり",
+          "productName": "国産豚\nかたロースかたまり\nはらかたまり\nローストンテキ用(グローブカット)",
           "price": {
             "taxExcl": 158,
             "taxIncl": 170.64
@@ -3605,51 +3044,7 @@
           "validTo": "2026-02-22"
         },
         {
-          "productName": "パインブロック",
-          "price": {
-            "taxExcl": 398,
-            "taxIncl": 429.84
-          },
-          "unit": "1パック",
-          "category": "果物",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "かつお きはだまぐろ(解凍)",
-          "price": {
-            "taxExcl": 198,
-            "taxIncl": 213.84
-          },
-          "unit": "100g当り",
-          "category": "魚",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "生アトランティック サーモン",
-          "price": {
-            "taxExcl": 498,
-            "taxIncl": 537.84
-          },
-          "unit": "100g当り",
-          "category": "魚",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "塩銀鮭甘塩味",
-          "price": {
-            "taxExcl": 198,
-            "taxIncl": 213.84
-          },
-          "unit": "100g当り",
-          "category": "魚",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-22"
-        },
-        {
-          "productName": "バカメイえび",
+          "productName": "生バチメイえび(養殖・解凍)\n切身・小口切身",
           "price": {
             "taxExcl": 178,
             "taxIncl": 192.24
@@ -3660,7 +3055,7 @@
           "validTo": "2026-02-22"
         },
         {
-          "productName": "大粒バナメイ えびチリソース",
+          "productName": "大粒バナメイむきえび\nエビチリソース",
           "price": {
             "taxExcl": 198,
             "taxIncl": 213.84
@@ -3671,34 +3066,100 @@
           "validTo": "2026-02-22"
         },
         {
-          "productName": "唐揚げ唐王",
+          "productName": "ボインブロック",
+          "price": {
+            "taxExcl": 398,
+            "taxIncl": 429.84
+          },
+          "unit": "1点",
+          "category": "果物",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "かつお\nきはだまぐろ(解凍)",
           "price": {
             "taxExcl": 198,
             "taxIncl": 213.84
           },
           "unit": "100g当り",
-          "category": "惣菜",
+          "category": "魚",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-22"
         },
         {
-          "productName": "ザ・クランド",
+          "productName": "生アトランティックサーモン\n刺身用\n腹身用",
           "price": {
-            "taxExcl": 178,
-            "taxIncl": 192.24
+            "taxExcl": 358,
+            "taxIncl": 386.64
+          },
+          "unit": "100g当り",
+          "category": "魚",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "サーモン\n西京漬け",
+          "price": {
+            "taxExcl": 498,
+            "taxIncl": 537.84
           },
           "unit": "1点",
-          "category": "乳製品",
+          "category": "魚",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-22"
         },
         {
-          "productName": "チョコパイ",
+          "productName": "塩銀鮭甘塩味(チリ産原料使用)",
+          "price": {
+            "taxExcl": 198,
+            "taxIncl": 213.84
+          },
+          "unit": "100g当り",
+          "category": "魚",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "カゴメケチャップ",
+          "price": {
+            "taxExcl": 198,
+            "taxIncl": 213.84
+          },
+          "unit": "500g",
+          "category": "他",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "ワンドリップコーヒー",
+          "price": {
+            "taxExcl": 498,
+            "taxIncl": 537.84
+          },
+          "unit": "1点",
+          "category": "飲料",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "森永ホットケーキ",
+          "price": {
+            "taxExcl": 238,
+            "taxIncl": 257.04
+          },
+          "unit": "1点",
+          "category": "他",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "ロッテチョコパイ",
           "price": {
             "taxExcl": 298,
             "taxIncl": 321.84
           },
-          "unit": "1点",
+          "unit": "1パック",
           "category": "他",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-22"
@@ -3709,18 +3170,62 @@
             "taxExcl": 148,
             "taxIncl": 159.84
           },
+          "unit": "1500ml",
+          "category": "飲料",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "唐揚げ唐王",
+          "price": {
+            "taxExcl": 198,
+            "taxIncl": 213.84
+          },
+          "unit": "100g",
+          "category": "惣菜",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "特大15個入",
+          "price": {
+            "taxExcl": 1180,
+            "taxIncl": 1274.4
+          },
+          "unit": "1パック",
+          "category": "惣菜",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "おいしいチキン",
+          "price": {
+            "taxExcl": 378,
+            "taxIncl": 408.24
+          },
+          "unit": "1点",
+          "category": "惣菜",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-22"
+        },
+        {
+          "productName": "無糖レモン",
+          "price": {
+            "taxExcl": 358,
+            "taxIncl": 386.64
+          },
           "unit": "1点",
           "category": "飲料",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-22"
         },
         {
-          "productName": "レモンサワー",
+          "productName": "無糖グレープフルーツ",
           "price": {
             "taxExcl": 398,
             "taxIncl": 437.8
           },
-          "unit": "1点",
+          "unit": "よりどり3点",
           "category": "飲料",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-22"
@@ -3759,7 +3264,7 @@
           "validTo": "2026-02-24"
         },
         {
-          "productName": "国産 豚肉もも 切りおとし",
+          "productName": "国産 豚肉もも 切リおとし",
           "price": {
             "taxExcl": 198,
             "taxIncl": 213.84
@@ -3770,7 +3275,7 @@
           "validTo": "2026-02-24"
         },
         {
-          "productName": "国産 若どり味付",
+          "productName": "国産 若どり 味付焼",
           "price": {
             "taxExcl": 98,
             "taxIncl": 105.84
@@ -3781,120 +3286,65 @@
           "validTo": "2026-02-24"
         },
         {
-          "productName": "熊本県などの国内産 トマト",
+          "productName": "国産米ごはん",
           "price": {
-            "taxExcl": 98,
-            "taxIncl": 105.84
-          },
-          "unit": "1個",
-          "category": "野菜",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "スウィーティオ バナナ",
-          "price": {
-            "taxExcl": 198,
-            "taxIncl": 213.84
-          },
-          "unit": "1点",
-          "category": "果物",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "埼玉県などの国内産 黒舞茸",
-          "price": {
-            "taxExcl": 158,
-            "taxIncl": 170.64
+            "taxExcl": 698,
+            "taxIncl": 753.84
           },
           "unit": "1パック",
-          "category": "野菜",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "もめん",
-          "price": {
-            "taxExcl": 98,
-            "taxIncl": 105.84
-          },
-          "unit": "150g×3",
           "category": "他",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-24"
         },
         {
-          "productName": "しっかり味が染みた OdenMini(玉子入り)",
-          "price": {
-            "taxExcl": 248,
-            "taxIncl": 267.84
-          },
-          "unit": "1点",
-          "category": "惣菜",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "ビタミンD入り 6Pチーズ",
-          "price": {
-            "taxExcl": 178,
-            "taxIncl": 192.24
-          },
-          "unit": "1点",
-          "category": "乳製品",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "ギョーザ",
-          "price": {
-            "taxExcl": 178,
-            "taxIncl": 192.24
-          },
-          "unit": "(12個)",
-          "category": "惣菜",
-          "validFrom": "2026-02-20",
-          "validTo": "2026-02-24"
-        },
-        {
-          "productName": "大人のさらさ。 さらさ洗剤ジェル 超特大サイズ",
+          "productName": "Ｐ＆Ｇ 大人のさらさ さらさ洗剤ジェル超特大サイズ",
           "price": {
             "taxExcl": 798,
             "taxIncl": 877.8
           },
-          "unit": "各760g",
+          "unit": "1個",
           "category": "日用品",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-23"
         },
         {
-          "productName": "ハイタ・花王 ワイドハイター",
+          "productName": "花王 ワイドハイター",
           "price": {
             "taxExcl": 248,
             "taxIncl": 272.8
           },
-          "unit": "1点",
+          "unit": "1個",
           "category": "日用品",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-24"
         },
         {
-          "productName": "スマジックリン",
+          "productName": "ハイター・花王 スマジックリン",
           "price": {
             "taxExcl": 348,
             "taxIncl": 382.8
           },
-          "unit": "1点",
+          "unit": "1個",
           "category": "日用品",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-24"
         },
         {
-          "productName": "トップバリュ サランラップ",
+          "productName": "花王 アタックEX",
           "price": {
-            "taxExcl": 778,
-            "taxIncl": 855.8
+            "taxExcl": 598,
+            "taxIncl": 657.8
+          },
+          "unit": "1個",
+          "category": "日用品",
+          "validFrom": "2026-02-20",
+          "validTo": "2026-02-24"
+        },
+        {
+          "productName": "ＯＫＡ スパウト 各種",
+          "price": {
+            "taxExcl": 1480,
+            "taxIncl": 1628
           },
           "unit": "1点",
           "category": "日用品",
@@ -3902,35 +3352,35 @@
           "validTo": "2026-02-24"
         },
         {
-          "productName": "エンボス仕様で水スピードが速い",
+          "productName": "エンボス仕様で水スピードが速い キッチンタオル",
           "price": {
             "taxExcl": 298,
             "taxIncl": 327.8
           },
-          "unit": "1点",
+          "unit": "1個",
           "category": "日用品",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-24"
         },
         {
-          "productName": "ライオン ハグキプラス ハミガキ",
+          "productName": "ライオン システム ハグキプラス ハミガキ",
           "price": {
             "taxExcl": 1080,
             "taxIncl": 1188
           },
-          "unit": "1点",
+          "unit": "1個",
           "category": "日用品",
           "validFrom": "2026-02-20",
           "validTo": "2026-02-24"
         }
       ],
-      "scrapedAt": "2026-02-22T23:05:27.721Z"
+      "scrapedAt": "2026-02-23T23:56:25.815Z"
     },
     {
       "storeName": "DCM東十条店",
       "products": [
         {
-          "productName": "MAXZEN LEDシーリングライト MCD06DS02",
+          "productName": "MAXZEN LEDシーリングライト 調光タイプ(調光7段階) ~6畳用 MCD06DS02",
           "price": {
             "taxExcl": 3480,
             "taxIncl": 3828
@@ -3941,7 +3391,7 @@
           "validTo": null
         },
         {
-          "productName": "MAXZEN LEDシーリングライト MCD08DS02",
+          "productName": "MAXZEN LEDシーリングライト 調光タイプ(調光7段階) ~8畳用 MCD08DS02",
           "price": {
             "taxExcl": 3980,
             "taxIncl": 4378
@@ -3952,7 +3402,7 @@
           "validTo": null
         },
         {
-          "productName": "MAXZEN LEDシーリングライト MCM06DS02",
+          "productName": "MAXZEN LEDシーリングライト 調光・調色タイプ (調光7段階・調色7段階) ~6畳用 MCM06DS02",
           "price": {
             "taxExcl": 3980,
             "taxIncl": 4378
@@ -3963,7 +3413,7 @@
           "validTo": null
         },
         {
-          "productName": "MAXZEN LEDシーリングライト MCM08DS02",
+          "productName": "MAXZEN LEDシーリングライト 調光・調色タイプ (調光7段階・調色7段階) ~8畳用 MCM08DS02",
           "price": {
             "taxExcl": 4980,
             "taxIncl": 5478
@@ -3974,10 +3424,10 @@
           "validTo": null
         },
         {
-          "productName": "P&G アリエールジェル",
+          "productName": "P&G アリエールジェル 詰め替え ①1720g",
           "price": {
-            "taxIncl": 1738,
-            "taxExcl": 1609
+            "taxExcl": 1180,
+            "taxIncl": 1298
           },
           "unit": "1点",
           "category": "日用品",
@@ -3985,10 +3435,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "P&G アリエールジェル",
+          "productName": "P&G アリエールジェル 詰め替え ②部屋干し 1720g",
           "price": {
-            "taxIncl": 869,
-            "taxExcl": 805
+            "taxExcl": 1180,
+            "taxIncl": 1298
           },
           "unit": "1点",
           "category": "日用品",
@@ -3996,10 +3446,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 アタックZERO",
+          "productName": "花王 アタックZERO 詰め替え ①1540g",
           "price": {
-            "taxIncl": 2618,
-            "taxExcl": 2424
+            "taxExcl": 1480,
+            "taxIncl": 1628
           },
           "unit": "1点",
           "category": "日用品",
@@ -4007,10 +3457,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 アタックZERO",
+          "productName": "花王 アタックZERO 詰め替え ②部屋干し 1460g",
           "price": {
-            "taxIncl": 1309,
-            "taxExcl": 1212
+            "taxExcl": 1480,
+            "taxIncl": 1628
           },
           "unit": "1点",
           "category": "日用品",
@@ -4018,10 +3468,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 ハミングフレア",
+          "productName": "花王 ハミングフレア 詰め替え 1930g ①フローラルスウィート",
           "price": {
-            "taxIncl": 1628,
-            "taxExcl": 1507
+            "taxExcl": 998,
+            "taxIncl": 1097
           },
           "unit": "1点",
           "category": "日用品",
@@ -4029,10 +3479,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 ハミングフレア",
+          "productName": "花王 ハミングフレア 詰め替え 1930g ②フラワーハーモニー",
           "price": {
-            "taxIncl": 814,
-            "taxExcl": 754
+            "taxExcl": 998,
+            "taxIncl": 1097
           },
           "unit": "1点",
           "category": "日用品",
@@ -4040,10 +3490,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ジョンソン 洗たく槽カビキラー",
+          "productName": "ジョンソン 洗たく槽カビキラー 550g",
           "price": {
-            "taxIncl": 525,
-            "taxExcl": 486
+            "taxExcl": 298,
+            "taxIncl": 327
           },
           "unit": "1点",
           "category": "日用品",
@@ -4051,10 +3501,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ジョンソン 洗たく槽カビキラー",
+          "productName": "花王 キュキュット 泡パック 微香性 詰め替え 720ml",
           "price": {
-            "taxIncl": 263,
-            "taxExcl": 244
+            "taxExcl": 598,
+            "taxIncl": 657
           },
           "unit": "1点",
           "category": "日用品",
@@ -4062,10 +3512,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 キュキュット泡パック",
+          "productName": "花王 キレイキレイ 薬用泡ハンドソープ 詰め替え 800ml ①シトラスフルーティ",
           "price": {
-            "taxIncl": 1097,
-            "taxExcl": 1016
+            "taxExcl": 498,
+            "taxIncl": 547
           },
           "unit": "1点",
           "category": "日用品",
@@ -4073,10 +3523,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 キュキュット泡パック",
+          "productName": "花王 キレイキレイ 薬用泡ハンドソープ 詰め替え 800ml ②フローラルソープ",
           "price": {
-            "taxIncl": 549,
-            "taxExcl": 508
+            "taxExcl": 498,
+            "taxIncl": 547
           },
           "unit": "1点",
           "category": "日用品",
@@ -4084,10 +3534,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 クイックルワイパー立体吸着ウエットシート",
+          "productName": "花王 ビオレu ボディウォッシュ 詰め替え 1320ml",
           "price": {
-            "taxIncl": 855,
-            "taxExcl": 792
+            "taxExcl": 898,
+            "taxIncl": 987
           },
           "unit": "1点",
           "category": "日用品",
@@ -4095,10 +3545,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 クイックルワイパー立体吸着ウエットシート",
+          "productName": "花王 薬用ピュオーラ 大容量 170g ①クリーンミント",
           "price": {
-            "taxIncl": 428,
-            "taxExcl": 396
+            "taxExcl": 498,
+            "taxIncl": 547
           },
           "unit": "1点",
           "category": "日用品",
@@ -4106,10 +3556,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 キレイキレイ 薬用泡ハンドソープ",
+          "productName": "花王 薬用ピュオーラ 大容量 170g ②ストロングミント",
           "price": {
-            "taxIncl": 877,
-            "taxExcl": 812
+            "taxExcl": 498,
+            "taxIncl": 547
           },
           "unit": "1点",
           "category": "日用品",
@@ -4117,10 +3567,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 キレイキレイ 薬用泡ハンドソープ",
+          "productName": "小林製薬 メガネクリーナ ふきふき 40包入",
           "price": {
-            "taxIncl": 439,
-            "taxExcl": 406
+            "taxExcl": 648,
+            "taxIncl": 712
           },
           "unit": "1点",
           "category": "日用品",
@@ -4128,76 +3578,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 ビオレu ボディウォッシュ",
+          "productName": "ペットライン キャネットチップ 2.7kg",
           "price": {
-            "taxIncl": 1628,
-            "taxExcl": 1507
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "花王 ビオレu ボディウォッシュ",
-          "price": {
-            "taxIncl": 814,
-            "taxExcl": 754
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "花王 薬用ピュオーラ",
-          "price": {
-            "taxIncl": 822,
-            "taxExcl": 761
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "花王 薬用ピュオーラ",
-          "price": {
-            "taxIncl": 411,
-            "taxExcl": 381
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "小林製薬 メガネクリーナふきふき",
-          "price": {
-            "taxIncl": 1174,
-            "taxExcl": 1087
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "小林製薬 メガネクリーナふきふき",
-          "price": {
-            "taxIncl": 587,
-            "taxExcl": 544
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "ペットライン キャネットチップ",
-          "price": {
-            "taxIncl": 1848,
-            "taxExcl": 1711
+            "taxExcl": 1080,
+            "taxIncl": 1188
           },
           "unit": "1点",
           "category": "他",
@@ -4205,10 +3589,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ペットライン キャネットチップ",
+          "productName": "いなば 魚づくし 60g×3袋入",
           "price": {
-            "taxIncl": 924,
-            "taxExcl": 856
+            "taxExcl": 248,
+            "taxIncl": 272
           },
           "unit": "1点",
           "category": "他",
@@ -4216,32 +3600,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "いなば 魚づくし",
+          "productName": "ドギーマン ごほうびセレクト 160g-110g",
           "price": {
-            "taxIncl": 437,
-            "taxExcl": 405
-          },
-          "unit": "1点",
-          "category": "魚",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "いなば 魚づくし",
-          "price": {
-            "taxIncl": 219,
-            "taxExcl": 203
-          },
-          "unit": "1点",
-          "category": "魚",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "ドギーマン ごほうびセレクト",
-          "price": {
-            "taxIncl": 877,
-            "taxExcl": 812
+            "taxExcl": 498,
+            "taxIncl": 547
           },
           "unit": "1点",
           "category": "他",
@@ -4249,10 +3611,10 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ドギーマン ごほうびセレクト",
+          "productName": "ホワイデント ごほうびハミガキ ササミde デンタル 145g",
           "price": {
-            "taxIncl": 439,
-            "taxExcl": 406
+            "taxExcl": 598,
+            "taxIncl": 657
           },
           "unit": "1点",
           "category": "他",
@@ -4260,24 +3622,24 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ホワイデント ごほうびハミガキ",
+          "productName": "花王 クイックルワイパー 立体吸着ウエットシート ①16枚入",
           "price": {
-            "taxIncl": 1097,
-            "taxExcl": 1016
+            "taxExcl": 458,
+            "taxIncl": 503
           },
           "unit": "1点",
-          "category": "他",
+          "category": "日用品",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
         {
-          "productName": "ホワイデント ごほうびハミガキ",
+          "productName": "花王 クイックルワイパー 立体吸着ウエットシート ②ストロング 12枚入",
           "price": {
-            "taxIncl": 549,
-            "taxExcl": 508
+            "taxExcl": 458,
+            "taxIncl": 503
           },
           "unit": "1点",
-          "category": "他",
+          "category": "日用品",
           "validFrom": "2026-02-01",
           "validTo": "2026-02-28"
         },
@@ -4293,7 +3655,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "除菌ジョイコンパクト 逆さボトル 1290ml",
+          "productName": "P&G 除菌ジョイコンパクト 逆さボトル 290ml",
           "price": {
             "taxExcl": 181,
             "taxIncl": 195
@@ -4304,18 +3666,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "除菌ジョイコンパクト 贅沢シトラス オレンジ 290ml",
-          "price": {
-            "taxExcl": 181,
-            "taxIncl": 195
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "花王 アタックZERO 本体 ドラム式専用580g",
+          "productName": "花王 アタックZERO 本体",
           "price": {
             "taxExcl": 405,
             "taxIncl": 437
@@ -4326,18 +3677,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 アタックZERO 本体 部屋干し570g",
-          "price": {
-            "taxExcl": 405,
-            "taxIncl": 437
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "レノア 煮沸レベル消臭抗菌ビーズ SPORTS 本体 420ml",
+          "productName": "P&G レノア 煮沸レベル消臭抗菌ビーズ SPORTS",
           "price": {
             "taxExcl": 506,
             "taxIncl": 547
@@ -4381,7 +3721,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 エッセンシャル ザビューティ 詰め替え 700ml リペア シャンプー",
+          "productName": "花王 エッセンシャル ザビューティ 詰め替え 700ml",
           "price": {
             "taxExcl": 608,
             "taxIncl": 657
@@ -4392,18 +3732,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 エッセンシャル ザビューティ 詰め替え 700ml リペア コンディショナー",
-          "price": {
-            "taxExcl": 608,
-            "taxIncl": 657
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "花王 サクセス リンスのいらない薬用シャンプー 詰め替え 960ml",
+          "productName": "花王 サクセス リンスのいらない薬用シャンプー 詰め替え",
           "price": {
             "taxExcl": 1609,
             "taxIncl": 1738
@@ -4414,29 +3743,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "花王 サクセス リンスのいらない薬用シャンプー エクストラクール 詰め替え 960ml",
-          "price": {
-            "taxExcl": 1609,
-            "taxIncl": 1738
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "ユニ・チャーム ソフィはだおもい 極うすスリム 26cm 28個入",
-          "price": {
-            "taxExcl": 506,
-            "taxIncl": 547
-          },
-          "unit": "1点",
-          "category": "日用品",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "ユニ・チャーム ソフィはだおもい 23cm 30個入",
+          "productName": "ユニ・チャーム ソフィはだおもい",
           "price": {
             "taxExcl": 506,
             "taxIncl": 547
@@ -4469,18 +3776,7 @@
           "validTo": "2026-02-28"
         },
         {
-          "productName": "いなば CIAO ちゅ〜る 贅沢バラエティ 14g×80本入",
-          "price": {
-            "taxExcl": 3035,
-            "taxIncl": 3278
-          },
-          "unit": "1点",
-          "category": "他",
-          "validFrom": "2026-02-01",
-          "validTo": "2026-02-28"
-        },
-        {
-          "productName": "いなば CIAO ちゅ〜る 総合栄養食バラエティ 14g×80本入",
+          "productName": "いなば CIAO ちゅ〜る 14g×80本入",
           "price": {
             "taxExcl": 3035,
             "taxIncl": 3278
@@ -4509,8 +3805,8 @@
           },
           "unit": "500g",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "グラフィコ オキシクリーン パワーリキッド",
@@ -4520,8 +3816,8 @@
           },
           "unit": "660ml",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "P&G ボールド ジェルボール4D",
@@ -4531,8 +3827,8 @@
           },
           "unit": "11個入",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "P&G アリエール ジェルボールプロ",
@@ -4542,8 +3838,8 @@
           },
           "unit": "11個入",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "花王 バブ 5種類の香りお楽しみBOX",
@@ -4553,8 +3849,8 @@
           },
           "unit": "60錠入",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "花王 メリット オソロ",
@@ -4564,8 +3860,8 @@
           },
           "unit": "450ml",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "花王 メリット オソロ",
@@ -4575,30 +3871,30 @@
           },
           "unit": "340ml",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "花王 アトリックスクリーム メディケイティッド エクストラクリーム",
+          "productName": "花王 アトリックス メディケイティッド エクストラクリーム",
           "price": {
             "taxExcl": 848,
             "taxIncl": 932
           },
           "unit": "70g",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "花王 アトリックス ビューティーチャージ プレミアム シワ改善 ハンドジェルクリーム",
+          "productName": "花王 アトリックス ビューティーチャージ プレミアム",
           "price": {
             "taxExcl": 1180,
             "taxIncl": 1298
           },
           "unit": "60g",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "Haleon シュミテクト",
@@ -4608,8 +3904,8 @@
           },
           "unit": "90g",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "ネスレピュリナ ピュリナワン",
@@ -4619,8 +3915,8 @@
           },
           "unit": "3kg",
           "category": "他",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "日本ヒルズ サイエンスダイエット",
@@ -4630,19 +3926,19 @@
           },
           "unit": "1.3kg",
           "category": "他",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
-          "productName": "FEATHER サムライエッジ ホルダー",
+          "productName": "FEATHER サムライエッジ",
           "price": {
             "taxExcl": 848,
             "taxIncl": 932
           },
-          "unit": "1個",
+          "unit": "1点",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "日本香堂 毎日香ナチュラル",
@@ -4650,10 +3946,10 @@
             "taxExcl": 848,
             "taxIncl": 932
           },
-          "unit": "約110g",
+          "unit": "1点",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "Hazuki Company ハズキルーペ ラージ",
@@ -4663,8 +3959,8 @@
           },
           "unit": "1点",
           "category": "日用品",
-          "validFrom": "2026-03-01",
-          "validTo": "2026-03-08"
+          "validFrom": null,
+          "validTo": null
         },
         {
           "productName": "玉子焼きフライパン13×18cm",
@@ -4821,7 +4117,7 @@
           "validTo": "2026-02-28"
         }
       ],
-      "scrapedAt": "2026-02-22T23:06:53.831Z"
+      "scrapedAt": "2026-02-23T23:57:50.683Z"
     }
   ]
 }
